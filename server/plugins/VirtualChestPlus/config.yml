@@ -1,0 +1,38 @@
+
+#CATEGORY COMMAND MESSAGES
+CATEGORY_COMMAND:
+  HELP:
+    - "&8&l&m-----[&r &e&lVirtualChestPlus &8&l&m]-----"
+    - "&c/vcp create <category> &8- &aCreates an category"
+    - "&c/vcp delete <category> &8- &aDeletes an category"
+    - "&c/vcp setMenuName <category> <name> &8- &aSets category's menuname"
+    - "&c/vcp setItem <category> <item>(item id) &8- &aSets category's menu ıtem"
+    - "&c/vcp setDisplayname <category> <name>(unlimited args) &8- &aSets category's displayname in main menu"
+    - "&c/vcp setLore <category> <lore>(unlimited args) &8- &aSets category's lore in main menu"
+CATEGORY_CREATED: "&bVCP&7: &aCategory created."
+CATEGORY_DELETED: "&bVCP&7: &cCategory deleted."
+CATEGORY_ALREADY_EXISTS: "&bVCP&7: &cThis category already exists."
+CATEGORY_DOESNT_EXISTS: "&bVCP&7: &cCategory not found."
+CATEGORY_MENUNAME_SELECTED: "&bVCP&7: &aCategory Menu Name selected."
+CATEGORY_ITEM_SELECTED: "&bVCP&7: &aCategory Menu Item selected"
+CATEGORY_DISPLAYNAME_SELECTED: "&bVCP&7: &aCategory Menu Displayname selected."
+CATEGORY_LORE_SELECTED: "&bVCP&7: &aCategory Menu Lore selected."
+CATEGORY_LIMIT: "&bVCP&7: &aYou can create just 18 categories."
+
+
+#MAIN GUI
+MAIN_GUI:
+  TITLE: "&e&lVirtualChestPlus"
+  ITEMS:
+    PREVIOUSPAGE:
+      DISPLAYNAME: "&cPrevious Page"
+      LORE:
+        - "&aClick!"
+    NEXTPAGE:
+      DISPLAYNAME: "&cNext page"
+      LORE:
+        - "&aClick!"
+    BARRIER:
+      DISPLAYNAME: "&c&lClose Menu"
+      LORE:
+        - "&aClick!"

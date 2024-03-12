@@ -1,0 +1,20 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [
+                "mudkips_rule",
+                "mudkips_rule",
+                "mudkips_rule"
+        ],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "DoggoClan",
+        "lastOnline": 1710257849848,
+        "ID": "f9638775-90b5-4899-b926-45487af75964",
+        "allies": [],
+        "open": "true",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

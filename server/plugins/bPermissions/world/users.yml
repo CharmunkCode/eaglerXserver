@@ -1,0 +1,8 @@
+users:
+  ed29d03b-f01b-39dd-ab82-ac3b54f2c88b:
+    username: Char
+    permissions: []
+    groups:
+    - owner
+    meta:
+      prefix: Owner

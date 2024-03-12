@@ -1,0 +1,33 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.*
+    - chestmaster.open
+  Moderator: {}
+  Owner:
+    permissions:
+    - permissions.*
+    - Char
+    worlds:
+      Char:
+        permissions:
+        - user
+    options:
+      rank: '1'
+    prefix: “&0(&4Admin&0)&7
+  Founder: {}
+  Admin:
+    permissions:
+    - permissions.*
+    options:
+      rank: '1'
+    prefix: “&0(&4Admin&0)&7
+  Helper: {}
+users:
+  Char:
+    group:
+    - Admin
+  Koi:
+    group:
+    - Admin

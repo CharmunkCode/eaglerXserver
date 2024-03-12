@@ -1,0 +1,32 @@
+Players:
+  297935fe-15f6-3074-80b6-f30b553fe8c5: Guest
+  59e49993-dba6-3608-baba-133766761b0c: Guest
+  84398786-e521-351c-9cf0-df0f73b6d326: Guest
+  b43a360c-0613-3942-8048-162baab59435: Guest
+  a56a768b-27e3-3120-823a-75460c16a7ee: Guest
+  ed29d03b-f01b-39dd-ab82-ac3b54f2c88b: Owner
+  9180937e-5fcb-36f1-bc5e-1179753264b5: Guest
+  bfc116e2-7756-320b-ae22-ed173d7f61aa: Guest
+  fa4b8a1d-7e00-3f1b-91e4-69e864950eee: Guest
+  a24f3346-9a64-3ec9-b449-32836ac99a62: Guest
+  87f7b90f-4fd1-3187-93ba-8732d015085a: Guest
+  a55e6668-17f7-39e0-8001-02140b002d8a: Guest
+  07946ff9-6914-3d1e-ad20-1fb9707fe775: Guest
+  e8de36e0-d4b2-315e-8c5d-b2baec5db3bf: Guest
+  68727dc1-4832-3fda-90fc-733729969cc6: Guest
+  4ff82c81-5212-3b70-a242-fc55abca7b6f: Guest
+  d09e4d5c-22b4-3292-9dc2-2ceb775aaea5: Guest
+  d9a95374-d096-3dd8-88d6-b3a6cdec71db: Guest
+Ranks:
+  Guest:
+    name: Guest
+    permissions: []
+    prefix: '[Guest] '
+    suffix: ': '
+    default: true
+  Owner:
+    name: Owner
+    permissions: []
+    prefix: 'Owner '
+    suffix: ' '
+    default: false

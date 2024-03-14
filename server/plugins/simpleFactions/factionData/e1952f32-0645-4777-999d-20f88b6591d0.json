@@ -1,7 +1,10 @@
 {
         "truce": [],
         "safezone": "false",
-        "invited": [],
+        "invited": [
+                "rip_dogwater",
+                "wienerdogface"
+        ],
         "enemies": [],
         "peaceful": "false",
         "home": "",

@@ -4,7 +4,12 @@ groups:
     permissions:
     - modifyworld.*
     - chestmaster.open
-  Moderator: {}
+  Moderator:
+    permissions:
+    - minecraft.command.time
+    - minecraft.command.kill
+    - bungeecord.command.time
+    - bukkit.command.time
   Owner:
     permissions:
     - permissions.*
@@ -23,11 +28,13 @@ groups:
     options:
       rank: '1'
     prefix: “&0(&4Admin&0)&7
-  Helper: {}
+  Helper:
+    permissions:
+    - permission:tab.Helper
 users:
-  Char:
+  VeerIsKKK:
     group:
-    - Admin
-  Koi:
+    - Helper
+  Corner1:
     group:
-    - Admin
+    - Moderator

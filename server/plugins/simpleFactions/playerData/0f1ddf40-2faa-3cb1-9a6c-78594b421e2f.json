@@ -1,16 +1,16 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 120354,
+        "time online": 4755971,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "ottoman",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "General_Rihan",
         "chat channel": "global",
-        "last online": 1710258118309,
+        "last online": 1710342341706,
         "ID": "0f1ddf40-2faa-3cb1-9a6c-78594b421e2f",
-        "power": 1.966666666666586,
-        "deaths": 0
+        "power": -14.050000000000152,
+        "deaths": 8
 }

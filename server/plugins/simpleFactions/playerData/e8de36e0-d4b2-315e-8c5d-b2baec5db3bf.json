@@ -1,7 +1,7 @@
 {
         "kills": 3,
         "autounclaim": "false",
-        "time online": 20904311,
+        "time online": 33705813,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "GolemDaWanderer",
         "chat channel": "global",
-        "last online": 1710286932315,
+        "last online": 1710346844349,
         "ID": "e8de36e0-d4b2-315e-8c5d-b2baec5db3bf",
-        "power": 9.316666666666784,
-        "deaths": 5
+        "power": 5.066666666666755,
+        "deaths": 10
 }

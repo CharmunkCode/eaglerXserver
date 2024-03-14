@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 0,
+        "time online": 2836414,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "sum_rat123",
         "chat channel": "global",
-        "last online": 1710257698092,
+        "last online": 1710341081358,
         "ID": "ebe8f5e8-dc74-3897-9e22-6e427e7337b7",
-        "power": 1.7666666666665902,
-        "deaths": 0
+        "power": -1.7500000000000722,
+        "deaths": 1
 }

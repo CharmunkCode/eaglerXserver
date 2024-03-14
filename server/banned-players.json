@@ -32,12 +32,28 @@
     "reason": "Banned by an operator."
   },
   {
+    "uuid": "d9cb5986-17da-308f-a72e-1cae7fa3ecb2",
+    "name": "penis_gobler",
+    "created": "2024-03-13 14:41:48 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "83cc0f9a-b26c-3168-9c32-95fc8551ba6e",
     "name": "Ben_Bot",
     "created": "2024-03-12 19:19:53 +0000",
     "source": "Server",
     "expires": "forever",
     "reason": "see me irl tmr someone says u stole"
+  },
+  {
+    "uuid": "505cd6e0-d84b-33b6-b9be-ee0fd5461c43",
+    "name": "trunker",
+    "created": "2024-03-13 13:57:06 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
   },
   {
     "uuid": "ceebe40e-7b73-3a97-a044-872ab7707538",

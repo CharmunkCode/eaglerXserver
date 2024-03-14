@@ -11,3 +11,21 @@ Char:
   tagprefix: '&2&lOwner &a'
 Koi:
   tabsuffix: '&0&l[&1&lAdmin&0&l] &a'
+I_am_amazing:
+  tabsuffix: '&0(&4Moderator&0)&7'
+henryericaiden:
+  tabsuffix: '&0&l[&a&2Co-Owner&0&l] &a'
+Bob_theBuilder:
+  tabsuffix: '&0(&6Cool&0)&7'
+VeerIsKKK: {}
+GolemDaWanderer:
+  tabsuffix: '&0(&1Admin&0)&7'
+kirbo:
+  tabsuffix: '&0(&DKIRBO&0)&7'
+Tester: {}
+A_Random_Person:
+  tabsuffix: '&0(&5ShopKeeper&0)&7'
+Gakzilla:
+  tabsuffix: '&0(&1Admin&0)&7'
+Corner1:
+  tabsuffix: '&0(&4Moderator&0)&7'

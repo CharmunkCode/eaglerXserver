@@ -185,10 +185,10 @@ placeholderapi-refresh-intervals:
   '%player_ping%': 1000
   '%vault_prefix%': 1000
   '%rel_factionsuuid_relation_color%': 1000
-assign-groups-by-permissions: false
+assign-groups-by-permissions: true
 primary-group-finding-list:
 - Owner
-- Admingiv
+- Admin
 - Mod
 - Helper
 - default

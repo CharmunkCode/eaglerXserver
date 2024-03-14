@@ -10,6 +10,15 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    museum:
+        type: cuboid
+        min: {x: -585.0, y: 65.0, z: 301.0}
+        max: {x: -564.0, y: 81.0, z: 328.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [char]
+        members: {}
     shops:
         type: cuboid
         min: {x: -582.0, y: 67.0, z: 243.0}

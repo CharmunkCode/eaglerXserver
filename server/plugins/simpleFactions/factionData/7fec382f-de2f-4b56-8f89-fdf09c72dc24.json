@@ -1,0 +1,25 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [
+                "corner1",
+                "gakzilla",
+                "koi",
+                "henryericaiden",
+                "corner",
+                "corner1",
+                "henryericaiden",
+                "henryericaiden"
+        ],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "OGs",
+        "lastOnline": 1710338727409,
+        "ID": "7fec382f-de2f-4b56-8f89-fdf09c72dc24",
+        "allies": [],
+        "open": "true",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

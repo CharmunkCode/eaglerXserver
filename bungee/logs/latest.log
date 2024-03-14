@@ -122,3 +122,27 @@
 [01:28:27] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32848|Char] -> UpstreamBridge has disconnected
 [01:28:27] [Netty Worker IO Thread #0/INFO]: [Char] disconnected with: Proxy lost connection to server.
 [01:28:27] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32848|Char] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:29:00] [main/INFO]: Command not found
+[01:29:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59748]: Connected via websocket
+[01:29:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59748]: Origin header is http://localhost:8081
+[01:29:01] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59748]: Logged in as 'WienerDogFace'
+[01:29:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59748|WienerDogFace] -> UpstreamBridge has connected
+[01:29:01] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for WienerDogFace AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[01:29:01] [Netty Worker IO Thread #1/INFO]: [WienerDogFace] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[01:29:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59748|WienerDogFace] -> UpstreamBridge has disconnected
+[01:29:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59754]: Connected via websocket
+[01:29:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59754]: Origin header is http://localhost:8081
+[01:29:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59754]: Logged in as 'WienerDogFace'
+[01:29:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59754|WienerDogFace] -> UpstreamBridge has connected
+[01:29:04] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for WienerDogFace AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[01:29:04] [Netty Worker IO Thread #2/INFO]: [WienerDogFace] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[01:29:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59754|WienerDogFace] -> UpstreamBridge has disconnected
+[01:29:11] [Shutdown Thread/INFO]: Closing listener [id: 0x16a28454, L:/127.0.0.1:25577]
+[01:29:11] [Shutdown Thread/INFO]: Closing pending connections
+[01:29:11] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[01:29:12] [Shutdown Thread/INFO]: Disabling plugins
+[01:29:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[01:29:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[01:29:12] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[01:29:14] [Shutdown Thread/INFO]: Closing IO threads
+[01:29:16] [Shutdown Thread/INFO]: Thank you and goodbye

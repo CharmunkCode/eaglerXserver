@@ -921,3 +921,55 @@ org.bukkit.plugin.UnknownDependencyException: MassiveCore
 [01:27:53] [Server thread/INFO]: WienerDogFace left the game.
 [01:28:27] [Server thread/INFO]: Char lost connection: Disconnected
 [01:28:27] [Server thread/INFO]: Char left the game.
+[01:28:55] [Server thread/INFO]: Stopping the server
+[01:28:55] [Server thread/INFO]: Stopping server
+[01:28:55] [Server thread/INFO]: [TAB] Disabling TAB v4.1.2
+[01:28:55] [Server thread/INFO]: [TAB] [0;32;1mDisabled in 0ms[m
+
+[01:28:55] [Server thread/INFO]: [Economy] Disabling Economy v2.3
+[01:28:55] [Server thread/INFO]: [Shop] Disabling Shop v1.3
+[01:28:55] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.12
+[01:28:55] [Server thread/INFO]: [bPermissions] Disabling bPermissions v2.12
+[01:28:55] [Server thread/INFO]: WEPIF: bPermissions detected! Using bPermissions for permissions
+[01:28:55] [Server thread/INFO]: [Vault][Permission] bPermissions2 un-hooked.
+[01:28:55] [Server thread/INFO]: [Vault][Chat] bPermissions2 un-hooked.
+[01:28:55] [Server thread/INFO]: [bPermissions] Waiting 30s to finish tasks...
+
+[01:28:55] [Server thread/INFO]: [bPermissions] All tasks finished after 0 seconds!
+
+[01:28:55] [Server thread/INFO]: [bPermissions] Saving worlds...
+
+[01:28:55] [Thread-6/INFO]: [bPermissions] Worlds saved, bPermissions disabled.
+
+[01:28:55] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.7.5
+[01:28:55] [Server thread/INFO]: [DupePatch] Disabling DupePatch v1.0.0
+[01:28:55] [Server thread/INFO]: [Vault] Disabling Vault v1.2.27-b349
+[01:28:55] [Server thread/INFO]: [AntiSwear] Disabling AntiSwear v3.5
+[01:28:55] [Server thread/INFO]: [AntiSwear] AntiSwear 3 Has Been Disabled.
+[01:28:55] [Server thread/INFO]: [simpleFactions] Disabling simpleFactions v1.95
+[01:28:55] [Server thread/INFO]: [0;32;1m[SimpleFactions has finished saving!][m
+
+[01:28:55] [Server thread/INFO]: [0;32;1m[SimpleFactions has shut down successfully!][m
+
+[01:28:55] [Server thread/INFO]: [EasyWarp] Disabling EasyWarp v3.11.1
+[01:28:55] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[01:28:55] [Server thread/INFO]: [AEco] Disabling AEco v2.1.0 Build 39
+[01:28:55] [Server thread/INFO]: [AEco 2.1.0] AEco has been disabled
+[01:28:55] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[01:28:55] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[01:28:55] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[01:28:55] [Server thread/INFO]: [BitchFilter] Disabling BitchFilter v1.0
+[01:28:55] [Server thread/INFO]: [AdminFun] Disabling AdminFun v2.0.7
+[01:28:55] [Server thread/INFO]: AdminFun v2.0.7 is now disabled.
+[01:28:55] [Server thread/INFO]: [VirtualChestPlus] Disabling VirtualChestPlus v1.0
+[01:28:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.7
+[01:28:55] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[01:28:55] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[01:28:55] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[01:28:55] [Server thread/INFO]: Saving players
+[01:28:55] [Server thread/INFO]: Saving worlds
+[01:28:55] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:28:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:28:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

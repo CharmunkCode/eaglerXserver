@@ -9,11 +9,6 @@ BigDickRandy:
     X: -179.68414386779045
     Y: 87.0
     Z: 4283.456936798517
-  Mine:
-    world: world
-    X: -216.69999998807904
-    Y: 11.0
-    Z: 4164.289960978342
   fort:
     world: world_nether
     X: -128.23501342803377
@@ -24,6 +19,11 @@ BigDickRandy:
     X: -459.00263569132966
     Y: 98.0
     Z: 1061.3638885076168
+  MIne:
+    world: world
+    X: -165.94026275581965
+    Y: 10.0
+    Z: 4164.300000011921
 WienerDogFace:
   gay:
     world: world
@@ -145,11 +145,6 @@ Koi:
     Y: 66.0
     Z: 254.62415087017192
 Char:
-  new:
-    world: world
-    X: -881.197431529596
-    Y: 69.0
-    Z: 285.83886216096727
   Fortress:
     world: world_nether
     X: -127.8343681163505
@@ -165,6 +160,11 @@ Char:
     X: 9857.728706776075
     Y: 71.0
     Z: -9846.869244768495
+  old:
+    world: world
+    X: -886.1305333151904
+    Y: 64.0
+    Z: 314.9300119073251
 Corner1:
   mine:
     world: world
@@ -220,9 +220,9 @@ Gakzilla:
 Brycethelegend:
   Brycethelegend:
     world: world
-    X: -1354.4746234145116
-    Y: 63.0
-    Z: -264.88789385969574
+    X: -1554.300000011921
+    Y: 43.0
+    Z: -549.0070361703265
 temp:
   base:
     world: world
@@ -282,17 +282,12 @@ GolemDaWanderer:
     X: 9999.03291244187
     Y: 67.0
     Z: -9997.393812369932
-  spawn:
+  m:
     world: world
-    X: -578.8536601936038
-    Y: 68.0
-    Z: 277.4239774840086
+    X: -5558.699999988079
+    Y: 53.0
+    Z: 1674.699999988079
 NezukoChan:
-  cavehome:
-    world: world
-    X: -644.7814948824084
-    Y: 11.0
-    Z: 233.92591365304366
   end:
     world: world_the_end
     X: -13.587385871675954
@@ -309,11 +304,6 @@ NezukoChan:
     Y: 64.0
     Z: 4116.082378018287
 Tester:
-  end:
-    world: world_the_end
-    X: -10.028688118827553
-    Y: 59.0
-    Z: 7.983574031393475
   water:
     world: world
     X: -2049.943281656155
@@ -334,6 +324,11 @@ Tester:
     X: -10171.856209158432
     Y: 64.0
     Z: 4118.555059212851
+  end:
+    world: world_the_end
+    X: -165.02903704527503
+    Y: 57.0
+    Z: 37.30000001192093
 A_Random_Person:
   base:
     world: world
@@ -345,6 +340,16 @@ A_Random_Person:
     X: -884.3000000119209
     Y: 62.0
     Z: 289.8984441669103
+  '1':
+    world: world
+    X: -1355.2938096662028
+    Y: 63.0
+    Z: -260.5204349501796
+  spawner:
+    world: world
+    X: -1531.8338336926097
+    Y: 64.0
+    Z: -117.37155253264845
 bagelz:
   bagelz:
     world: world
@@ -388,6 +393,11 @@ Tester_:
     X: -643.1487280448166
     Y: 12.5625
     Z: 235.14007127203237
+  base:
+    world: world
+    X: -10174.888061685371
+    Y: 64.0
+    Z: 4117.234228954705
 Brycethelegend_:
   Brycethelegend_:
     world: world
@@ -417,11 +427,6 @@ I_am_amazing:
     X: -595.5931359626995
     Y: 11.0
     Z: 592.8201824269464
-  minigamer:
-    world: world
-    X: -1286.7256124679357
-    Y: 70.0
-    Z: -234.6906228311631
   1base:
     world: world
     X: -654.1461365580199
@@ -432,11 +437,11 @@ I_am_amazing:
     X: -575.7903372458384
     Y: 68.0
     Z: 257.014939084355
-  '1':
+  tester:
     world: world
-    X: -388.51344352617554
-    Y: 11.0
-    Z: 757.5838855769143
+    X: -10169.978072238595
+    Y: 63.0
+    Z: 4114.894065219603
 Ben_Bot:
   Ben_Bot:
     world: world
@@ -639,3 +644,20 @@ CoolAmi24:
     X: -574.1403246992013
     Y: 69.0
     Z: 310.4012786924465
+qwerty:
+  ben:
+    world: world_nether
+    X: 114.84208399868332
+    Y: 36.0
+    Z: 283.29087024972716
+  bob:
+    world: world_nether
+    X: 128.54399597066953
+    Y: 44.0
+    Z: 28.979757222361627
+Rip_Dogwater:
+  BASE:
+    world: world
+    X: -10179.113292007727
+    Y: 63.0
+    Z: 4113.509623346352

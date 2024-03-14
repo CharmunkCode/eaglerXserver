@@ -6,6 +6,10 @@ groups:
   default:
     permissions: []
     groups: []
-  admin:
+  mod:
     permissions: []
+    groups: []
+  admin:
+    permissions:
+    - minecraft.command.gamemode
     groups: []

@@ -14,8 +14,6 @@ config-version: 8
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  bungeecord: true
-  late-bind: false
   sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
@@ -26,6 +24,8 @@ settings:
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
+  bungeecord: true
+  late-bind: false
   netty-threads: 4
   attribute:
     maxHealth:
@@ -45,7 +45,6 @@ timings:
   history-length: 3600
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -54,6 +53,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -67,6 +67,7 @@ stats:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -127,7 +128,6 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    mob-spawn-range: 4
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5

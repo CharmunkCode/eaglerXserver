@@ -22,10 +22,19 @@ GolemDaWanderer:
   tabsuffix: '&0(&1Admin&0)&7'
 kirbo:
   tabsuffix: '&0(&DKIRBO&0)&7'
-Tester: {}
+Tester:
+  tabsuffix: '&0(&4Moderator&0)&7'
 A_Random_Person:
   tabsuffix: '&0(&5ShopKeeper&0)&7'
 Gakzilla:
   tabsuffix: '&0(&1Admin&0)&7'
 Corner1:
   tabsuffix: '&0(&4Moderator&0)&7'
+Mudkips_Rule:
+  tabsuffix: '&0(&DDragonslayer&0)&7'
+Rip_Dogwater:
+  tabsuffix: '&0(&6Helper&0)&7'
+NezukoChan:
+  tabsuffix: '&0(&DDragonSlayer&0)&7'
+WienerDogFace:
+  tabsuffix: '&0(&6Wiener&0)&7'

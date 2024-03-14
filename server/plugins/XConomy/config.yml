@@ -3,7 +3,7 @@
 #Online mode is better for servers that enable online-mode(support Yggdrasil)
 #Offline mode does not support ignoring username case
 #If you use floodgate(GeyserMC) and the option 'username-prefix' is set to empty, Please use SemiOnline mode
-UUID-mode: Offline
+UUID-mode: Default
 #In convertion mode, can use command '/xconomy' import data from other plugins based on Vault
 #Conflicting data will be skipped, The imported data will be saved in XConomy/importdata/data.yml
 #In this mode, XConomy will not start normally

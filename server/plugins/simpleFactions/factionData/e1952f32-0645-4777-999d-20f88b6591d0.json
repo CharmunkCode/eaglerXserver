@@ -3,7 +3,12 @@
         "safezone": "false",
         "invited": [
                 "rip_dogwater",
-                "wienerdogface"
+                "wienerdogface",
+                "nezukochan",
+                "i_am_amazing",
+                "a_random_person",
+                "brycethelegend",
+                "nezukochan"
         ],
         "enemies": [],
         "peaceful": "false",
@@ -12,7 +17,7 @@
         "name": "Tester_Team",
         "lastOnline": 1710262732677,
         "ID": "e1952f32-0645-4777-999d-20f88b6591d0",
-        "allies": [],
+        "allies": ["OGs"],
         "open": "true",
         "warzone": "false",
         "desc": "Please do /sf desc to change this description!"

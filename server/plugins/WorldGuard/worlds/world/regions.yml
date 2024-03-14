@@ -10,6 +10,24 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    admin:
+        type: cuboid
+        min: {x: -611.0, y: 63.0, z: 300.0}
+        max: {x: -600.0, y: 63.0, z: 312.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members: {}
+    fishing:
+        type: cuboid
+        min: {x: -551.0, y: 63.0, z: 291.0}
+        max: {x: -543.0, y: 70.0, z: 298.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [char]
+        members: {}
     museum:
         type: cuboid
         min: {x: -585.0, y: 65.0, z: 301.0}

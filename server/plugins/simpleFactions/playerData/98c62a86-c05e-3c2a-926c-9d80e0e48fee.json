@@ -1,7 +1,7 @@
 {
-        "kills": 0,
+        "kills": 1,
         "autounclaim": "false",
-        "time online": 5480663,
+        "time online": 9922793,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "Tester_Team",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Rip_Dogwater",
         "chat channel": "global",
-        "last online": 1710342341707,
+        "last online": 1710367583002,
         "ID": "98c62a86-c05e-3c2a-926c-9d80e0e48fee",
         "power": -25,
-        "deaths": 18
+        "deaths": 25
 }

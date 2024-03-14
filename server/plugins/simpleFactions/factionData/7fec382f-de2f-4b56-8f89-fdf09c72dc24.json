@@ -9,7 +9,8 @@
                 "corner",
                 "corner1",
                 "henryericaiden",
-                "henryericaiden"
+                "henryericaiden",
+                "golemdawanderer"
         ],
         "enemies": [],
         "peaceful": "false",
@@ -18,7 +19,7 @@
         "name": "OGs",
         "lastOnline": 1710338727409,
         "ID": "7fec382f-de2f-4b56-8f89-fdf09c72dc24",
-        "allies": [],
+        "allies": ["Tester_team"],
         "open": "true",
         "warzone": "false",
         "desc": "Please do /sf desc to change this description!"

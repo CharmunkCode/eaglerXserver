@@ -1,5 +1,21 @@
 [
   {
+    "uuid": "bd1dba83-3118-34c4-9965-a1f0ac4a4017",
+    "name": "fuck_tester_",
+    "created": "2024-03-13 17:26:21 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "45aa5c22-bb8a-3b94-b502-2e2eda5ef48c",
+    "name": "fuck_tester",
+    "created": "2024-03-13 17:25:06 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "5bf67e03-806e-3b4d-83ea-8dbd96ffbc0b",
     "name": "Void_Null",
     "created": "2024-03-11 14:59:48 +0000",
@@ -24,18 +40,18 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
-    "name": "list",
-    "created": "2024-03-12 17:43:16 +0000",
-    "source": "Server",
+    "uuid": "0de7a445-9f6f-32e5-b661-94c7daf64b40",
+    "name": "hi_",
+    "created": "2024-03-13 19:20:58 +0000",
+    "source": "Koi",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "d9cb5986-17da-308f-a72e-1cae7fa3ecb2",
-    "name": "penis_gobler",
-    "created": "2024-03-13 14:41:48 +0000",
-    "source": "Koi",
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "created": "2024-03-12 17:43:16 +0000",
+    "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
@@ -59,6 +75,22 @@
     "uuid": "ceebe40e-7b73-3a97-a044-872ab7707538",
     "name": "Starshadow",
     "created": "2024-03-12 14:21:00 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d9cb5986-17da-308f-a72e-1cae7fa3ecb2",
+    "name": "penis_gobler",
+    "created": "2024-03-13 14:41:48 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "54ae0e7d-d229-3859-a579-b1247bbda72e",
+    "name": "i_fucked_tester",
+    "created": "2024-03-13 17:27:58 +0000",
     "source": "Char",
     "expires": "forever",
     "reason": "Banned by an operator."

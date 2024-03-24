@@ -1,7 +1,7 @@
 {
-        "kills": 0,
+        "kills": 12,
         "autounclaim": "false",
-        "time online": 26442003,
+        "time online": 68556085,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "OGs",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Koi",
         "chat channel": "global",
-        "last online": 1710365301413,
+        "last online": 1710965031928,
         "ID": "07946ff9-6914-3d1e-ad20-1fb9707fe775",
-        "power": 18.766666666666406,
-        "deaths": 1
+        "power": 25,
+        "deaths": 10
 }

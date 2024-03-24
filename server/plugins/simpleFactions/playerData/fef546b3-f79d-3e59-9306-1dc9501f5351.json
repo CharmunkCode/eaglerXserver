@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 0,
+        "time online": 361059,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Uwupapa",
         "chat channel": "global",
-        "last online": 1710257698092,
+        "last online": 1710776614209,
         "ID": "fef546b3-f79d-3e59-9306-1dc9501f5351",
-        "power": -3.200000000000069,
-        "deaths": 0
+        "power": 0.7999999999999999,
+        "deaths": 1
 }

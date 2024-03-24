@@ -28,3 +28,12 @@ regions:
         owners:
             players: [koi]
         members: {}
+    'no':
+        type: cuboid
+        min: {x: 99.0, y: 34.0, z: -1.0}
+        max: {x: 102.0, y: 45.0, z: 1.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members: {}

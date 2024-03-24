@@ -1,16 +1,16 @@
 {
-        "kills": 11,
+        "kills": 39,
         "autounclaim": "false",
-        "time online": 18393820,
+        "time online": 128760585,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "DoggoClan",
-        "factionRank": "leader",
+        "factionRank": "member",
         "shekels": 100,
         "name": "A_Random_Person",
         "chat channel": "global",
-        "last online": 1710362457239,
+        "last online": 1711287784356,
         "ID": "4ff82c81-5212-3b70-a242-fc55abca7b6f",
-        "power": -24.34999999999999,
-        "deaths": 20
+        "power": 25,
+        "deaths": 115
 }

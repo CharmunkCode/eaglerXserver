@@ -1,0 +1,22 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [
+                "rip_willofthed",
+                "rip_willofthed"
+        ],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "Conquerors",
+        "lastOnline": 1710508333730,
+        "ID": "3152b642-b642-48c6-98a2-00729117c5cd",
+        "allies": [
+                "Tester_Team",
+                "Aftermath"
+        ],
+        "open": "true",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

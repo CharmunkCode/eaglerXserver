@@ -1,0 +1,122 @@
+[2024-03-19 01:27:31] pl
+[2024-03-19 01:27:35] help ClearLag
+[2024-03-19 01:27:37] ;agg
+[2024-03-19 01:27:39] lagg
+[2024-03-19 01:27:43] lagg memory
+[2024-03-19 01:27:56] lagg memory
+[2024-03-19 01:28:01] lagg performance
+[2024-03-19 01:28:05] lagg clear
+[2024-03-19 11:30:41] user I_am_amazing
+[2024-03-19 11:30:43] group mod
+[2024-03-19 11:30:50] user setgroup mod
+[2024-03-19 11:31:40] 61;6;7;21;22;23;24;28;32;42
+[2024-03-19 11:31:45] permissions reload
+[2024-03-19 12:21:24] ban YiggDarvler279 e
+[2024-03-19 12:21:44] list
+[2024-03-19 12:23:51] spark healtreport --memory
+[2024-03-19 12:23:57] spark healthreport 
+[2024-03-19 12:31:33] spark healthreport --memory
+[2024-03-19 12:31:38] list
+[2024-03-19 12:31:48] spark healthreport
+[2024-03-19 12:32:20] give Dave_TheCoolGuy oak_log 64
+[2024-03-19 12:32:28] give Dave_TheCoolGuy oak_l 64
+[2024-03-19 12:35:37] stop
+[2024-03-19 12:36:58] list
+[2024-03-19 12:37:36] af bgod server is exploding, ill try to expand but need funding
+[2024-03-19 12:37:52] af bgod dave_coolguy offered me $10 so i should be able to expand a bit
+[2024-03-19 12:38:00] af bgod I mean like make server more powerful
+[2024-03-19 12:41:43] list
+[2024-03-19 12:41:54] effect Get_dick_slapped slowness 255 255 true
+[2024-03-19 12:46:43] af bgod your horses are lagging up spawn, at least that pit of like 3 million in one chunk
+[2024-03-19 12:46:57] af bgod you can have them but pls dont shove like 3 mil in one chunk lol
+[2024-03-19 12:47:30] af bgod oh, someone had 256 horses in one chunk, clearlag killed em
+[2024-03-19 12:47:34] pl
+[2024-03-19 12:47:35] lagg
+[2024-03-19 12:47:38] lagg clear
+[2024-03-19 12:47:44] af bgod k
+[2024-03-19 12:47:48] lagg admin
+[2024-03-19 12:47:52] lagg admin list
+[2024-03-19 12:48:07] spark healthreport
+[2024-03-19 12:49:02] user I_am_amazing
+[2024-03-19 12:49:07] user setgroup mod
+[2024-03-19 12:54:22] list
+[2024-03-19 12:54:24] lagg clear
+[2024-03-19 12:54:25] lagg clear
+[2024-03-19 12:54:25] lagg clear
+[2024-03-19 12:54:25] lagg clear
+[2024-03-19 12:54:26] lagg clear
+[2024-03-19 12:58:31] list
+[2024-03-19 13:45:32] kick @a
+[2024-03-19 13:45:41] list
+[2024-03-19 13:49:23] lagg clear
+[2024-03-19 13:49:42] list
+[2024-03-19 13:49:47] spark healthreport
+[2024-03-19 13:49:49] spark healthreport
+[2024-03-19 13:49:54] lagg clear
+[2024-03-19 13:49:59] logger
+[2024-03-19 13:50:05] logger dump
+[2024-03-19 13:50:10] logger dump
+[2024-03-19 13:53:55] list
+[2024-03-19 13:54:48] list
+[2024-03-19 13:55:09] op Gakzilla
+[2024-03-19 13:56:00] op Gakzilla
+[2024-03-19 13:56:00] op Gakzilla
+[2024-03-19 13:58:02] stop
+[2024-03-19 14:28:25] list
+[2024-03-19 14:34:03] list
+[2024-03-19 14:34:11] spark healthreport
+[2024-03-19 15:20:08] list
+[2024-03-19 15:20:10] r
+[2024-03-19 15:20:12] help
+[2024-03-19 17:02:10] list
+[2024-03-19 17:02:16] af tell hi
+[2024-03-19 17:02:27] tell i tried to fix the lag did it work?
+[2024-03-19 17:02:32] af tell i tried to fix the lag did it work?
+[2024-03-19 17:02:39] af telll also testing a new thing lol
+[2024-03-19 17:03:19] af tell k, ill keep trying
+[2024-03-19 17:03:23] lagg clear
+[2024-03-19 17:31:33] list
+[2024-03-19 17:37:52] list
+[2024-03-19 18:06:50] list
+[2024-03-19 18:53:12] list
+[2024-03-19 18:58:17] /setblock -614 68 262 minecraft:player_head[rotation=0]{SkullOwner:{Id:[I;-2021474635,832260824,-1102617885,-1674004200],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJlODQ1MTE4NTA5MTA1NWE5OTMwY2Q2NGFhMGUzOTdiNDMzNmY3NGUyYzU3OWQ4Y2FmNGRhZDQyZDQzNjZmZiJ9fX0="}]}}} replace
+[2024-03-19 18:58:26] /setblock -614 68 262 minecraft:player_head[rotation=0]{SkullOwner:{Id:[I;-2021474635,832260824,-1102617885,-1674004200],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJlODQ1MTE4NTA5MTA1NWE5OTMwY2Q2NGFhMGUzOTdiNDMzNmY3NGUyYzU3OWDDDDDDDDDDDDDDDDQ4Y2FmNGRhZDQyZDQzNjZmZiJ9fX0="}]}}} replace
+[2024-03-19 18:58:31] setblock -614 68 262 minecraft:player_head[rotation=0]{SkullOwner:{Id:[I;-2021474635,832260824,-1102617885,-1674004200],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJlODQ1MTE4NTA5MTA1NWE5OTMwY2Q2NGFhMGUzOTdiNDMzNmY3NGUyYzU3OWDDDDDDDDDDDDDDDDQ4Y2FmNGRhZDQyZDQzNjZmZiJ9fX0="}]}}} replace
+[2024-03-19 20:33:56] gamerule keepInventory
+[2024-03-19 20:33:58] gamerule keepInventory true
+[2024-03-19 21:03:22] list
+[2024-03-19 21:03:25] stop
+[2024-03-19 21:28:32] reload
+[2024-03-19 21:28:38] list
+[2024-03-19 21:29:37] reload
+[2024-03-19 21:29:46] list
+[2024-03-19 21:31:55] reload
+[2024-03-19 21:56:05] list
+[2024-03-19 22:01:09] permissions reload
+[2024-03-19 22:01:12] deop Char
+[2024-03-19 22:01:16] user Char
+[2024-03-19 22:01:20] user setgroup builder
+[2024-03-19 22:01:47] op Char
+[2024-03-19 22:02:34] permissions reload
+[2024-03-19 22:23:11] list
+[2024-03-19 22:23:17] af bgod e
+[2024-03-19 22:23:49] tp NezukoChan 1 1 1
+[2024-03-19 22:24:03] gamerule keepInventory
+[2024-03-19 22:51:27] af bgod in the mod only gc lol 
+[2024-03-19 22:52:09] af bgod Corner selling buckets for 1000 coins 💀
+[2024-03-19 22:52:14] af bgod thats crazy
+[2024-03-19 23:33:06] user TurtleDuck
+[2024-03-19 23:33:32] tab player TurtleDuck tabsuffix &0&l[&a&lBuilder&0&l] &a
+[2024-03-19 23:33:37] tab player TurtleDuck tagprefix &0&l[&a&lBuilder&0&l] &a
+[2024-03-19 23:33:45] bgod af TurleDuck has been promoted to builder
+[2024-03-19 23:33:51] af bgod TurleDuck has been promoted to builder
+[2024-03-20 00:23:23] ls
+[2024-03-20 00:23:24] list
+[2024-03-20 00:23:32] af playerchat Tester e
+[2024-03-20 00:42:43] list
+[2024-03-20 00:42:49] af bgod yo Tester u on school PC rn?
+[2024-03-20 00:45:37] af bgod npm install
+[2024-03-20 00:45:43] af bgod ope wrong console my bad
+[2024-03-20 00:45:51] af bgod meant to put that in my proxy running console lol
+[2024-03-20 00:46:14] af bgod and maybe a shovel
+[2024-03-20 00:53:56] git clone https://github.com/Degenerate0001/Degeneracy

@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 5,
         "autounclaim": "false",
-        "time online": 2953877,
+        "time online": 19809566,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "Peace",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "MrBlob2U",
         "chat channel": "global",
-        "last online": 1710346724307,
+        "last online": 1711122147187,
         "ID": "a7c66b95-e1a6-3999-9b04-48ac42162ea9",
-        "power": -22.666666666666753,
-        "deaths": 11
+        "power": 25,
+        "deaths": 55
 }

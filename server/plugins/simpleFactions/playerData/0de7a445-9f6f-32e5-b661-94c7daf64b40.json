@@ -1,7 +1,7 @@
 {
-        "kills": 0,
+        "kills": 3,
         "autounclaim": "false",
-        "time online": 8410268,
+        "time online": 20591567,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "hi_",
         "chat channel": "global",
-        "last online": 1710346424227,
+        "last online": 1711123949472,
         "ID": "0de7a445-9f6f-32e5-b661-94c7daf64b40",
-        "power": -6.733333333333322,
-        "deaths": 7
+        "power": 20.599999999999966,
+        "deaths": 35
 }

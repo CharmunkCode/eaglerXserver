@@ -1,16 +1,16 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 5900055,
+        "time online": 12145895,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "nine",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "theproman3387",
         "chat channel": "global",
-        "last online": 1710353464493,
+        "last online": 1711029829682,
         "ID": "d9a95374-d096-3dd8-88d6-b3a6cdec71db",
-        "power": -15.783333333333426,
-        "deaths": 9
+        "power": 12.799999999999994,
+        "deaths": 25
 }

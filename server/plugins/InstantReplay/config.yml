@@ -1,0 +1,72 @@
+mysql:
+  username: ""
+  password: ""
+  host: ""
+  database: ""
+  port: 3306
+
+settings:
+  use-plugin-prefix: true
+  seconds-per-timestamp-output: 60
+  ignore-y-radius: true
+  spectator-gamemode: true
+  seconds-per-player-move-log: 1 #RECOMMENDED IS 1
+  seconds-per-player-inventory-log: 1 #RECOMMENDED IS 1
+  hours-until-logs-deleted: 72 #RECOMMENDED IS 72 OR LESS, SET TO -1 TO DISABLE
+  event-render-buffer: 100 #RECOMMENDED IS BETWEEN 50 AND 500
+  timestamp-converter-format-datetime: "yyyy-MM-dd/HH:mm:ss"
+  timestamp-converter-format-time: "HH:mm:ss"
+  replay-permission: "instantreplay.replay"
+  replay-reload-permission: "instantreplay.reload"
+  replay-clearlogs-permission: "instantreplay.clearlogs"
+
+plugin-prefix: "&6&l[&3&lInstantReplay&6&l] &r&7"
+no-permission: "&cInsufficient Permissions."
+no-events-found: "&cNo block, player, death or damage events found meeting radius and time."
+no-active-replay: "&cYou are not currently running a replay."
+config-reloaded: "&aConfiguration reloaded. Please note this does not change event logging times."
+logs-cleared: "&aLogs successfully cleared."
+block-change-event-parse-error: "Cannot parse BlockChangeEvent to current minecraft version. Either change the server version to the version the event was created on or clear the BlockChangeEvents from the mysql database. Alternatively, use &e/instantreplay clearlogs &7to clear all logs."
+invalid-argument:
+  - "&7&m                                                        "
+  - "&c                      Help Page                      "
+  - "&7&m                                                        "
+  - "&c/replay start <radius> <time> [speed] &7- start a replay."
+  - "&c/replay speed <speed> &7- change the speed of the running replay."
+  - "&c/replay skip <time> &7- skip amount of time in the running replay."
+  - "&c/replay stop &7- stop the running replay."
+  - "&c/replay pause &7- pause the running replay."
+  - "&c/replay resume &7- resume the paused replay."
+  - "&c/replay timestamp [datetime/time] [timezone]&7- get the current timestamp or parse a date."
+  - "{&c/replay reload &7- reload the plugin's config.}[replay-reload-permission]"
+  - "{&c/replay clearlogs &7- clear the replay logs.}[replay-clearlogs-permission]"
+  - "&c/replay help &7- show this text."
+  - "&7&m                                                        "
+replay-stopped: "Replay Stopped."
+replay-paused: "Replay Paused."
+replay-resumed: "Replay Resumed."
+replay-loading: "Loading..."
+replay-finished: "&aReplay Finished."
+replay-starting: "Replay starting from {TIMESTAMP} at {SPEED}x speed with a {RADIUS} block radius."
+replay-speed-changed: "Replay speed set to {SPEED}x speed."
+replay-skipped: "Replay skipped {TIME}."
+replay-timestamp-output: "Current timestamp of replay: &e{TIMESTAMP} &7(Click To Copy)"
+replay-already-paused: "&cReplay is already paused."
+replay-not-paused: "&cReplay is not paused."
+replay-already-running: "&cYou are already running a replay."
+player-damage: "{PLAYER} was damaged by {SOURCE}"
+player-death: "{PLAYER} was killed by {SOURCE}"
+player-join: "{PLAYER} Connected"
+player-leave: "{PLAYER} Disconnected"
+timestamp-output: "&eTimestamp: &7{TIMESTAMP} &e(Click To Copy)"
+invalid-timezone: "&cCouldn't parse timezone, ideally follow the format '{area}/{city}' - e.g. 'Europe/Paris'. Most abbreviations are also supported."
+no-convert-timestamp: "&cCouldn't convert argument to a timestamp. Please use the format: '{FORMAT_DATETIME}' or '{FORMAT_TIME}'"
+parsing-time-argument: "Parsing time argument with the server default timezone ({TIMEZONE}). If you wish to use a specific timezone, parse argument to timestamp then start the replay with it."
+invalid-format-speed: "&cFormat: /replay speed <speed>"
+invalid-argument-speed: "&cSpeed must be an integer, less than or equal to 10."
+invalid-format-skip: "&cFormat: /replay skip <time>"
+invalid-argument-skip: "&cTime must be a positive integer followed by 's' or 'm' to represent 'seconds' or 'minutes'. e.g. /replay skip 10s"
+invalid-time-skip: "&cSkip time goes outside the time constraints of the replay."
+invalid-format-start: "&cFormat: /replay start <radius> <time> [speed]"
+invalid-argument-start: "&cRadius and speed must be integers."
+invalid-argument-start-time: "&cTime must be in the formats: <seconds>s or <minutes>m or <hours>h or <timestamp>t or <format>"

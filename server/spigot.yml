@@ -14,18 +14,18 @@ config-version: 8
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
   user-cache-size: 1000
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-threshold: 100.0
+  bungeecord: true
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
-  bungeecord: true
-  late-bind: false
   netty-threads: 4
   attribute:
     maxHealth:
@@ -45,22 +45,22 @@ timings:
   history-length: 3600
 commands:
   tab-complete: 0
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
   log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
 messages:
   whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  unknown-command: Unknown command. Type "/help" for help or make sure your brain is braining
+  server-full: The server is full! (get promoted to bypass this lol)
+  outdated-client: Outdated client! Please stop being old
+  outdated-server: Outdated server! Get younger
+  restart: Server is restarting! Please dont yell at me cuz I probably already know
 stats:
   disable-saving: false
   forced-stats: {}
@@ -88,7 +88,7 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    nerf-spawner-mobs: false
+    nerf-spawner-mobs: true
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -100,7 +100,7 @@ world-settings:
       netherwart-modifier: 100
     entity-activation-range:
       animals: 32
-      monsters: 32
+      monsters: 10
       misc: 16
     entity-tracking-range:
       players: 48
@@ -120,9 +120,9 @@ world-settings:
     seed-village: 10387312
     seed-feature: 14357617
     hunger:
-      walk-exhaustion: 0.2
-      sprint-exhaustion: 0.8
-      combat-exhaustion: 0.3
+      walk-exhaustion: 0.1
+      sprint-exhaustion: 0.5
+      combat-exhaustion: 0.2
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
     max-tick-time:

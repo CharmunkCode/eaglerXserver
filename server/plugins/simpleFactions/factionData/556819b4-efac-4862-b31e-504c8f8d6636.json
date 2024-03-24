@@ -1,0 +1,16 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "NSDAP",
+        "lastOnline": 1711141621800,
+        "ID": "556819b4-efac-4862-b31e-504c8f8d6636",
+        "allies": ["Tester_Team"],
+        "open": "false",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

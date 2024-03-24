@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 75,
         "autounclaim": "false",
-        "time online": 22768384,
+        "time online": 167831655,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "Tester_Team",
-        "factionRank": "member",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "NezukoChan",
         "chat channel": "global",
-        "last online": 1710379141712,
+        "last online": 1711315063564,
         "ID": "f7bb36ab-e336-3c4d-9238-e9504956be33",
-        "power": -21.03333333333354,
-        "deaths": 19
+        "power": 25,
+        "deaths": 231
 }

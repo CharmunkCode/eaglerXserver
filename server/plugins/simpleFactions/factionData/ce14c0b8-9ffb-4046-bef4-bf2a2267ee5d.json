@@ -1,0 +1,16 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "MUDKIPCLAN",
+        "lastOnline": 1711238629322,
+        "ID": "ce14c0b8-9ffb-4046-bef4-bf2a2267ee5d",
+        "allies": ["Tester_Team"],
+        "open": "false",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

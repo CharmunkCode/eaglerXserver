@@ -10,6 +10,16 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    a_randomshop:
+        type: cuboid
+        min: {x: -553.0, y: 88.0, z: 242.0}
+        max: {x: -540.0, y: 104.0, z: 261.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [char, a_random_person]
+        members:
+            players: [turtleduck]
     admin:
         type: cuboid
         min: {x: -611.0, y: 63.0, z: 300.0}
@@ -18,7 +28,38 @@ regions:
         flags: {}
         owners:
             players: [koi]
-        members: {}
+        members:
+            players: [turtleduck, tester, dave_thecoolguy_]
+    ban:
+        type: cuboid
+        min: {x: -584.0, y: 67.0, z: 241.0}
+        max: {x: -538.0, y: 76.0, z: 287.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members:
+            players: [turtleduck]
+    boi:
+        type: cuboid
+        min: {x: -585.0, y: 67.0, z: 333.0}
+        max: {x: -564.0, y: 68.0, z: 370.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members:
+            players: [turtleduck]
+    event1:
+        type: cuboid
+        min: {x: -547.0, y: 91.0, z: 307.0}
+        max: {x: -536.0, y: 93.0, z: 370.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [henryericaiden]
+        members:
+            players: [turtleduck, dave_thecoolguy_]
     fishing:
         type: cuboid
         min: {x: -551.0, y: 63.0, z: 291.0}
@@ -26,8 +67,29 @@ regions:
         priority: 0
         flags: {}
         owners:
-            players: [char]
-        members: {}
+            players: [corner1, char]
+        members:
+            players: [turtleduck]
+    hello:
+        type: cuboid
+        min: {x: -667.0, y: 66.0, z: 239.0}
+        max: {x: -586.0, y: 70.0, z: 342.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members:
+            players: [turtleduck, tester, dave_thecoolguy_]
+    koi:
+        type: cuboid
+        min: {x: -601.0, y: 67.0, z: 275.0}
+        max: {x: -594.0, y: 77.0, z: 286.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [koi]
+        members:
+            players: [turtleduck]
     museum:
         type: cuboid
         min: {x: -585.0, y: 65.0, z: 301.0}
@@ -36,12 +98,53 @@ regions:
         flags: {}
         owners:
             players: [char]
-        members: {}
+        members:
+            players: [turtleduck, dave_thecoolguy_]
+    patrickevent:
+        type: cuboid
+        min: {x: -546.0, y: 63.0, z: 309.0}
+        max: {x: -535.0, y: 66.0, z: 373.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [henryericaiden]
+        members:
+            players: [turtleduck, dave_thecoolguy_]
+    patricks_build:
+        type: cuboid
+        min: {x: -547.0, y: 115.0, z: 307.0}
+        max: {x: -536.0, y: 140.0, z: 370.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [henryericaiden]
+        members:
+            players: [dave_thecoolguy_]
+    shop2:
+        type: cuboid
+        min: {x: -584.0, y: 77.0, z: 267.0}
+        max: {x: -540.0, y: 88.0, z: 287.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [char, tester, a_random_person]
+        members:
+            players: [nezukochan]
     shops:
         type: cuboid
-        min: {x: -582.0, y: 67.0, z: 243.0}
-        max: {x: -523.0, y: 80.0, z: 287.0}
+        min: {x: -584.0, y: 77.0, z: 241.0}
+        max: {x: -539.0, y: 87.0, z: 287.0}
         priority: 0
         flags: {creeper-explosion: deny}
         owners: {}
+        members:
+            players: [nezukochan, turtleduck, tester, dave_thecoolguy_, milk_frog]
+    testersshop:
+        type: cuboid
+        min: {x: -568.0, y: 88.0, z: 267.0}
+        max: {x: -555.0, y: 98.0, z: 286.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [char, tester]
         members: {}

@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 2,
         "autounclaim": "false",
-        "time online": 3017066,
+        "time online": 30706760,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
+        "faction": "Penguinbois",
         "factionRank": "member",
         "shekels": 100,
         "name": "character",
         "chat channel": "global",
-        "last online": 1710341081358,
+        "last online": 1711207366880,
         "ID": "1de0a7e2-4590-31c8-8341-aad7a0f13b27",
-        "power": -0.9500000000000037,
-        "deaths": 5
+        "power": 25,
+        "deaths": 22
 }

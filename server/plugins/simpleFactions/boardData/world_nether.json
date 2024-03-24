@@ -1,1 +1,5 @@
-{"name": "world_nether"}
+{
+        "chunkX12480 chunkY128 chunkZ0": "NSDAP",
+        "name": "world_nether",
+        "chunkX12496 chunkY128 chunkZ0": "NSDAP"
+}

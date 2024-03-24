@@ -7,29 +7,35 @@ _NEZNAMY_:
   tabsuffix: ' &b&lVerified'
 Char:
   tabsuffix: '&0&l[&a&lOwner&0&l] &a'
-  abovename: '&0&l[&a&lOwner&0&l] &a'
-  tagprefix: '&2&lOwner &a'
+  abovename: '&0&l[&a&lVIP+ &0&L] &a'
+  tagprefix: '&0&l[&a&lOwner&0&l] &a'
 Koi:
-  tabsuffix: '&0&l[&1&lAdmin&0&l] &a'
+  tabsuffix: '&0&l[&a&2Co-Owner&0&l] &a'
 I_am_amazing:
   tabsuffix: '&0(&4Moderator&0)&7'
+  tabprefix: (dumbo)
 henryericaiden:
   tabsuffix: '&0&l[&a&2Co-Owner&0&l] &a'
 Bob_theBuilder:
   tabsuffix: '&0(&6Cool&0)&7'
 VeerIsKKK: {}
 GolemDaWanderer:
-  tabsuffix: '&0(&1Admin&0)&7'
+  tabprefix: (dumbo)
 kirbo:
   tabsuffix: '&0(&DKIRBO&0)&7'
+  tabprefix: Da Best
 Tester:
-  tabsuffix: '&0(&4Moderator&0)&7'
+  tabprefix: (dumbo)
+  tabsuffix: '&0&l[&a&3Staff&0&l] &a'
+  tagprefix: '&0&l[&a&3Staff&0&l] &a'
 A_Random_Person:
   tabsuffix: '&0(&5ShopKeeper&0)&7'
 Gakzilla:
   tabsuffix: '&0(&1Admin&0)&7'
+  tagprefix: '&0&l[&a&1Admin&0&l] &a'
 Corner1:
-  tabsuffix: '&0(&4Moderator&0)&7'
+  tabsuffix: '&0&l[&a&1Admin&0&l] &a'
+  tagprefix: '&0&l[&a&1Admin&0&l] &a'
 Mudkips_Rule:
   tabsuffix: '&0(&DDragonslayer&0)&7'
 Rip_Dogwater:
@@ -38,3 +44,21 @@ NezukoChan:
   tabsuffix: '&0(&DDragonSlayer&0)&7'
 WienerDogFace:
   tabsuffix: '&0(&6Wiener&0)&7'
+Geoff:
+  tabprefix: (dumbo)
+Milk_Frog:
+  tabsuffix: '&0&l[&a&lBuilder&0&l] &a'
+  abovename: '&0&l[&a&lBuilder&0&l] &a'
+  tagprefix: '&0&l[&a&l Builder &0&l]'
+digbick:
+  tabsuffix: '&0(&6Wiener&0)&7'
+MashedProTatoes:
+  tabsuffix: '?'
+TurtleDuck:
+  tabsuffix: '&0&l[&a&lBuilder&0&l] &a'
+  tagprefix: '&0&l[&a&lBuilder&0&l] &a'
+hexa:
+  tabprefix: (dumbah)
+  tagprefix: (dumbah)
+Dave_TheCoolGuy:
+  tabsuffix: '&1(Almost Admin)'

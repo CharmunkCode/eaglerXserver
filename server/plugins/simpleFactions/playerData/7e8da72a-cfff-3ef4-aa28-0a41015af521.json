@@ -1,7 +1,7 @@
 {
-        "kills": 4,
+        "kills": 47,
         "autounclaim": "false",
-        "time online": 27276354,
+        "time online": 63139980,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "Tester_Team",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "I_am_amazing",
         "chat channel": "global",
-        "last online": 1710360805717,
+        "last online": 1711131156539,
         "ID": "7e8da72a-cfff-3ef4-aa28-0a41015af521",
-        "power": 12.649999999999798,
-        "deaths": 4
+        "power": 24.399999999999952,
+        "deaths": 19
 }

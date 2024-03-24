@@ -7,7 +7,23 @@ groups:
     permissions: []
     groups: []
   mod:
-    permissions: []
+    permissions:
+    - minecraft.command.kick
+    - minecraft.command.kill
+    - minecraft.command.time
+    - minecraft.command.tp
+    groups: []
+  kirbo:
+    permissions:
+    - minecraft.command.kill
+    - minecraft.command.time
+    groups: []
+  builder:
+    permissions:
+    - minecraft.command.gamemode
+    - minecraft.command.setblock
+    - worldedit.*
+    - worldguard.*
     groups: []
   admin:
     permissions:

@@ -1,7 +1,7 @@
 {
-        "kills": 4,
+        "kills": 13,
         "autounclaim": "false",
-        "time online": 24165007,
+        "time online": 82018500,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "OGs",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Corner1",
         "chat channel": "global",
-        "last online": 1710365361527,
+        "last online": 1711233415123,
         "ID": "68727dc1-4832-3fda-90fc-733729969cc6",
-        "power": 1.5833333333329647,
-        "deaths": 8
+        "power": 25,
+        "deaths": 19
 }

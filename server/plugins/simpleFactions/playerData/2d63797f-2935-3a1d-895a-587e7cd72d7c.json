@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 0,
+        "time online": 60058,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Teery_roberts",
         "chat channel": "global",
-        "last online": 1710257698091,
+        "last online": 1710421738196,
         "ID": "2d63797f-2935-3a1d-895a-587e7cd72d7c",
-        "power": -3.200000000000069,
+        "power": 0,
         "deaths": 0
 }

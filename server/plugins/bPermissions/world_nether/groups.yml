@@ -3,3 +3,9 @@ groups:
   default:
     permissions: []
     groups: []
+  mod:
+    permissions: []
+    groups: []
+  kirbo:
+    permissions: []
+    groups: []

@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 5,
         "autounclaim": "false",
-        "time online": 2649084,
+        "time online": 57802911,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "anti_ottoman",
-        "factionRank": "leader",
+        "faction": "Lorax",
+        "factionRank": "officer",
         "shekels": 100,
         "name": "digbick",
         "chat channel": "global",
-        "last online": 1710339222623,
+        "last online": 1711169805679,
         "ID": "a8b454c8-4eb4-35b5-a178-4555acf14e72",
-        "power": -4.599999999999988,
-        "deaths": 6
+        "power": 25,
+        "deaths": 67
 }

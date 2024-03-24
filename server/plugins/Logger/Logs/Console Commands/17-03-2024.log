@@ -1,0 +1,37 @@
+[2024-03-17 23:11:15] stop
+[2024-03-17 23:13:03] logger dump
+[2024-03-17 23:13:04] logger
+[2024-03-17 23:13:06] logger e
+[2024-03-17 23:13:14] logger dump
+[2024-03-17 23:45:42] logger reload
+[2024-03-17 23:45:45] reload
+[2024-03-18 00:07:32] list
+[2024-03-18 00:07:35] user Char
+[2024-03-18 00:07:38] user Koi
+[2024-03-18 00:07:46] user Koi
+[2024-03-18 00:09:21] economy reload
+[2024-03-18 00:09:22] list
+[2024-03-18 00:09:24] balance Koi
+[2024-03-18 00:09:28] af bgod koi do /balance
+[2024-03-18 00:10:45] user Tester
+[2024-03-18 00:11:50] economy reload
+[2024-03-18 00:11:52] balance Tester
+[2024-03-18 00:12:02] af bgod no one do /balance Tester
+[2024-03-18 00:12:06] balance Tester
+[2024-03-18 00:13:15] economy reload
+[2024-03-18 00:13:17] balance Tester
+[2024-03-18 00:13:33] economy reload
+[2024-03-18 00:13:35] balance Tester
+[2024-03-18 00:14:06] baltop
+[2024-03-18 00:14:14] economy reload
+[2024-03-18 00:14:15] baltop
+[2024-03-18 00:14:19] af bgod im the caption now
+[2024-03-18 00:14:25] af bgod (do /baltop)
+[2024-03-18 00:14:26] /baltop
+[2024-03-18 00:14:28] baltop
+[2024-03-18 00:50:11] deop Char
+[2024-03-18 00:50:41] gamemode s Char
+[2024-03-18 00:50:47] ls
+[2024-03-18 00:50:48] list
+[2024-03-18 00:51:00] op Char
+[2024-03-18 01:13:15] list

@@ -24,6 +24,102 @@
     "reason": "See me irl to get permission to join"
   },
   {
+    "uuid": "8f88a017-9b94-4acc-90d1-d168e950b6ab",
+    "name": "mizi",
+    "created": "2024-03-15 11:25:25 +0000",
+    "source": "henryericaiden",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "100162bd-4f5b-3acd-907e-d695d48c951f",
+    "name": "prox",
+    "created": "2024-03-15 14:01:33 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "created": "2024-03-16 18:40:35 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "255b7e0b-ac00-3bf6-8ec3-a45be94037db",
+    "name": "YiggDarvler279",
+    "created": "2024-03-19 12:21:24 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "e"
+  },
+  {
+    "uuid": "09af815a-3038-38e6-b1e0-04e73830d3cf",
+    "name": "Geoff",
+    "created": "2024-03-17 16:48:19 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ceebe40e-7b73-3a97-a044-872ab7707538",
+    "name": "Starshadow",
+    "created": "2024-03-12 14:21:00 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "98c62a86-c05e-3c2a-926c-9d80e0e48fee",
+    "name": "Rip_Dogwater",
+    "created": "2024-03-20 16:39:29 +0000",
+    "source": "Corner1",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "d9cb5986-17da-308f-a72e-1cae7fa3ecb2",
+    "name": "penis_gobler",
+    "created": "2024-03-13 14:41:48 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "54ae0e7d-d229-3859-a579-b1247bbda72e",
+    "name": "i_fucked_tester",
+    "created": "2024-03-13 17:27:58 +0000",
+    "source": "Char",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "552fe632-1350-3ae8-b065-24a6e32a9ce7",
+    "name": "Mudkip1234",
+    "created": "2024-03-16 18:04:09 +0000",
+    "source": "Milk_Frog",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1f97f891-9d2e-405f-b68b-28799ed80a3f",
+    "name": "BobTheBuilder",
+    "created": "2024-03-15 13:53:09 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "47dd2d06-4c77-3b2f-8650-5056fbd52e03",
+    "name": "qwertyqwerty",
+    "created": "2024-03-15 16:30:42 +0000",
+    "source": "henryericaiden",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "e881599e-08b5-462a-85e3-b44e6f8d8407",
     "name": "Someone139",
     "created": "2024-03-12 14:31:54 +0000",
@@ -40,18 +136,10 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "0de7a445-9f6f-32e5-b661-94c7daf64b40",
-    "name": "hi_",
-    "created": "2024-03-13 19:20:58 +0000",
-    "source": "Koi",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
-    "name": "list",
-    "created": "2024-03-12 17:43:16 +0000",
-    "source": "Server",
+    "uuid": "d4a5043a-bc86-3ece-9482-015d769262f5",
+    "name": "Someone139",
+    "created": "2024-03-20 21:58:32 +0000",
+    "source": "Milk_Frog",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
@@ -72,26 +160,50 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "ceebe40e-7b73-3a97-a044-872ab7707538",
-    "name": "Starshadow",
-    "created": "2024-03-12 14:21:00 +0000",
+    "uuid": "d9d5d639-2d74-3256-ac1f-f0af25637cf9",
+    "name": "ACE",
+    "created": "2024-03-21 12:48:17 +0000",
     "source": "Char",
     "expires": "forever",
-    "reason": "Banned by an operator."
+    "reason": "people say you be stealing"
   },
   {
-    "uuid": "d9cb5986-17da-308f-a72e-1cae7fa3ecb2",
-    "name": "penis_gobler",
-    "created": "2024-03-13 14:41:48 +0000",
+    "uuid": "623ec6ac-d56e-3c6f-b05a-671288517d3a",
+    "name": "____",
+    "created": "2024-03-15 13:59:54 +0000",
     "source": "Koi",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "54ae0e7d-d229-3859-a579-b1247bbda72e",
-    "name": "i_fucked_tester",
-    "created": "2024-03-13 17:27:58 +0000",
+    "uuid": "310ac65e-406d-3486-b3c2-1eff3690ea7b",
+    "name": "oinnker",
+    "created": "2024-03-14 18:47:01 +0000",
     "source": "Char",
+    "expires": "forever",
+    "reason": "har har har har har har har har har har"
+  },
+  {
+    "uuid": "c706c22d-7a4a-3b42-ad14-c934e67b14d0",
+    "name": "miwi",
+    "created": "2024-03-15 11:25:30 +0000",
+    "source": "henryericaiden",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3aa10d45-6372-352e-b9af-2eba497ed912",
+    "name": "___",
+    "created": "2024-03-15 13:59:24 +0000",
+    "source": "Koi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "863de52c-33c3-3018-a3f3-8264ab748bdb",
+    "name": "oinker",
+    "created": "2024-03-14 18:47:07 +0000",
+    "source": "Koi",
     "expires": "forever",
     "reason": "Banned by an operator."
   },

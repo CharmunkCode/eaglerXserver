@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 6,
         "autounclaim": "false",
-        "time online": 8242681,
+        "time online": 57931053,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "Mecinaryguild",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "qwerty",
         "chat channel": "global",
-        "last online": 1710364438735,
+        "last online": 1711149701331,
         "ID": "996aec62-04eb-3361-9b73-c600a1eedfdd",
-        "power": -24.599999999999994,
-        "deaths": 28
+        "power": 25,
+        "deaths": 155
 }

@@ -1,5 +1,23 @@
 [
   {
+    "uuid": "68727dc1-4832-3fda-90fc-733729969cc6",
+    "name": "Corner1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a56a768b-27e3-3120-823a-75460c16a7ee",
+    "name": "henryericaiden",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bdfd4d39-9869-3587-a60c-419be7f02cab",
+    "name": "Milk_Frog",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ed29d03b-f01b-39dd-ab82-ac3b54f2c88b",
     "name": "Char",
     "level": 4,
@@ -18,8 +36,8 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "8f9b52ef-e565-4f2b-91fe-29c4f43de2db",
-    "name": "Charmunk",
+    "uuid": "6466ee15-d1e7-3ca2-a5c1-3874fb538645",
+    "name": "Dave_TheCoolGuy",
     "level": 4,
     "bypassesPlayerLimit": false
   }

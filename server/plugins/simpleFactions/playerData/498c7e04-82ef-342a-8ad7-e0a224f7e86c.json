@@ -1,16 +1,16 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 1562249,
+        "time online": 5451045,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "KKK",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "Biggie_Vinny",
         "chat channel": "global",
-        "last online": 1710353284447,
+        "last online": 1710772288592,
         "ID": "498c7e04-82ef-342a-8ad7-e0a224f7e86c",
-        "power": 10.883333333333326,
-        "deaths": 0
+        "power": 13.016666666666683,
+        "deaths": 4
 }

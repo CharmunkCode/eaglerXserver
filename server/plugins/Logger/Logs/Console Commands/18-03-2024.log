@@ -1,0 +1,16 @@
+[2024-03-18 01:42:37] list
+[2024-03-18 01:43:21] give Char minecraft:player_head{display:{Name:'{"text":"Frog"}'},SkullOwner:{Id:[I;-2021474635,832260824,-1102617885,-1674004200],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJlODQ1MTE4NTA5MTA1NWE5OTMwY2Q2NGFhMGUzOTdiNDMzNmY3NGUyYzU3OWQ4Y2FmNGRhZDQyZDQzNjZmZiJ9fX0="}]}}} 1
+[2024-03-18 11:28:27] reload
+[2024-03-18 11:28:35] list
+[2024-03-18 11:28:42] list
+[2024-03-18 11:50:23] list
+[2024-03-18 11:50:25] stop
+[2024-03-18 11:51:22] list
+[2024-03-18 11:51:24] spark
+[2024-03-18 11:51:27] spark help
+[2024-03-18 11:51:32] spark healthreport
+[2024-03-18 11:51:39] spark healthreport--memory
+[2024-03-18 11:51:43] spark healthreport --memory
+[2024-03-19 01:25:03] list
+[2024-03-19 01:25:07] spark healthreport --memory
+[2024-03-19 01:27:16] reload

@@ -6,16 +6,17 @@
                 "mudkips_rule",
                 "mudkips_rule",
                 "vinny_chips",
-                "brycethelegend"
+                "brycethelegend",
+                "brycethelegend_"
         ],
         "enemies": [],
         "peaceful": "false",
         "home": "",
         "shekels": 0,
         "name": "DoggoClan",
-        "lastOnline": 1710257849848,
+        "lastOnline": 1711158575480,
         "ID": "f9638775-90b5-4899-b926-45487af75964",
-        "allies": [],
+        "allies": ["Tester_Team"],
         "open": "true",
         "warzone": "false",
         "desc": "Please do /sf desc to change this description!"

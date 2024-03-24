@@ -1,0 +1,20 @@
+configured: false
+database:
+  host: localhost
+  port: 3306
+  username: root
+  password: ''
+  database: database
+  table_prefix: mutesystem
+  use_ssl: true
+  require_ssl: false
+cache:
+  cache_time: 20
+  automatic_cache_clearing:
+    activated: true
+    interval: 300
+language: en_US
+command:
+  mute_history:
+    display_limit: 10
+block_command_execution_when_muted: false

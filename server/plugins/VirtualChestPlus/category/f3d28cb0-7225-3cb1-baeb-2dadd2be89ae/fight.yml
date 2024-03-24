@@ -1,0 +1,234 @@
+items:
+  '0':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '1':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8233
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8270
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8265
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8233
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+      damage: 32
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 5
+          PROTECTION_FIRE: 5
+          DURABILITY: 3
+          PROTECTION_EXPLOSIONS: 5
+          PROTECTION_PROJECTILE: 5
+          OXYGEN: 3
+          WATER_WORKER: 1
+          THORNS: 5
+        repair-cost: 31
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+      damage: 35
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 5
+          PROTECTION_FIRE: 5
+          DURABILITY: 3
+          PROTECTION_EXPLOSIONS: 5
+          PROTECTION_PROJECTILE: 5
+          THORNS: 5
+        repair-cost: 31
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+      damage: 264
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 5
+          PROTECTION_FIRE: 5
+          DURABILITY: 3
+          PROTECTION_EXPLOSIONS: 5
+          PROTECTION_PROJECTILE: 5
+          THORNS: 5
+        repair-cost: 63
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      damage: 112
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 4
+          DURABILITY: 3
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      damage: 68
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_PROJECTILE: 2
+          DEPTH_STRIDER: 1
+        repair-cost: 1
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOOK
+      amount: 10
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+      amount: 39
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      amount: 10
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+menuName: fight
+size: 54
+item: '1'
+displayName: '&e&lfight'
+lore: true

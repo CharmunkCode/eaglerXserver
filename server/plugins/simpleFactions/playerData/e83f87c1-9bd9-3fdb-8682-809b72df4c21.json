@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 63,
         "autounclaim": "false",
-        "time online": 9796972,
+        "time online": 38084052,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "Ballers",
-        "factionRank": "member",
+        "faction": "Aftermath",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "VeerIsKKK",
         "chat channel": "global",
-        "last online": 1710346724307,
+        "last online": 1711130496064,
         "ID": "e83f87c1-9bd9-3fdb-8682-809b72df4c21",
-        "power": -16.75000000000009,
-        "deaths": 11
+        "power": 25,
+        "deaths": 76
 }

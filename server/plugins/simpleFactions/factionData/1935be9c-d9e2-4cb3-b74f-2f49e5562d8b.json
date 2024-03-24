@@ -1,0 +1,20 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [
+                "penguinboi",
+                "character",
+                "character"
+        ],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "Penguinbois",
+        "lastOnline": 1711024245809,
+        "ID": "1935be9c-d9e2-4cb3-b74f-2f49e5562d8b",
+        "allies": [],
+        "open": "false",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

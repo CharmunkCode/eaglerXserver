@@ -1,0 +1,101 @@
+Discord:
+  Enable: true
+  Bot-Token: MTIxOTc1ODM2NzQ1OTkwMTU5MQ.G5xI7d.0vnbInfhLdnlponnGh2Wc5wM26lUfSA2exxPoA
+  Staff:
+    Channel-ID: 1219756999303233575
+  Player-Chat:
+    Channel-ID: 1219756999303233575
+  Player-Commands:
+    Channel-ID: 1219756999303233575
+  Player-Sign-Text:
+    Channel-ID: 1219756999303233575
+  Player-Join:
+    Channel-ID: 1219756999303233575
+  Player-Leave:
+    Channel-ID: 1219756999303233575
+  Player-Kick:
+    Channel-ID: 1219756999303233575
+  Player-Death:
+    Channel-ID: 1219756999303233575
+  Player-Teleport:
+    Channel-ID: 1219756999303233575
+  Player-Level:
+    Channel-ID: 1219756999303233575
+  Block-Place:
+    Channel-ID: 1219756999303233575
+  Block-Break:
+    Channel-ID: 1219756999303233575
+  Bucket-Fill:
+    Channel-ID: 1219756999303233575
+  Bucket-Empty:
+    Channel-ID: 1219756999303233575
+  Anvil:
+    Channel-ID: 1219756999303233575
+  Item-Pickup:
+    Channel-ID: 1219756999303233575
+  Item-Drop:
+    Channel-ID: 1219756999303233575
+  Enchanting:
+    Channel-ID: 1219756999303233575
+  Book-Editing:
+    Channel-ID: 1219756999303233575
+  Furnace:
+    Channel-ID: 1219756999303233575
+  Game-Mode:
+    Channel-ID: 1219756999303233575
+  Craft:
+    Channel-ID: 1219756999303233575
+  Registration:
+    Channel-ID: 1219756999303233575
+  Primed-TNT:
+    Channel-ID: 1219756999303233575
+  Chest-Interaction:
+    Channel-ID: 1219756999303233575
+  Entity-Death:
+    Channel-ID: 1219756999303233575
+  Sign-Change:
+    Channel-ID: 1219756999303233575
+  Server-Side:
+    Start:
+      Channel-ID: 1219756999303233575
+    Stop:
+      Channel-ID: 1219756999303233575
+    Console-Commands:
+      Channel-ID: CHANNEL_ID
+    RAM:
+      Channel-ID: 1219756999303233575
+    TPS:
+      Channel-ID: 1219756999303233575
+    Portal-Creation:
+      Channel-ID: 1219756999303233575
+    RCON:
+      Channel-ID: 1219756999303233575
+    Command-Block:
+      Channel-ID: 1219756999303233575
+  Extras:
+    AFK:
+      Channel-ID: 1219756999303233575
+    Wrong-Password:
+      Channel-ID: 1219756999303233575
+    Vault:
+      Channel-ID: 1219756999303233575
+    LiteBans:
+      Channel-ID: 1219756999303233575
+    AdvancedBan:
+      Channel-ID: 1219756999303233575
+  Version-Exceptions:
+    Wood-Stripping:
+      Channel-ID: 1219756999303233575
+ActivityCycling:
+  Enabled: true
+  Random: false
+  Activities:
+  - - watching
+    - Minecraft Movie
+  - - playing
+    - Minecraft 1.7
+  - - listening
+    - Dragon's Heart Beats
+  - - streaming
+    - Minecraft Gameplay
+  Time: 30

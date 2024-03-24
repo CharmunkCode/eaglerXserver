@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 2,
         "autounclaim": "false",
-        "time online": 3976674,
+        "time online": 9177971,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "Ballers",
+        "faction": "",
         "factionRank": "member",
         "shekels": 100,
         "name": "Someone139",
         "chat channel": "global",
-        "last online": 1710349354388,
+        "last online": 1710513566435,
         "ID": "d4a5043a-bc86-3ece-9482-015d769262f5",
-        "power": -16.700000000000056,
-        "deaths": 13
+        "power": 0,
+        "deaths": 32
 }

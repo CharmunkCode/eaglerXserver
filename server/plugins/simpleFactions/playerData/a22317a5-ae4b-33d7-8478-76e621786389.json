@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 5648571,
+        "time online": 12026779,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Sword4001",
         "chat channel": "global",
-        "last online": 1710365842440,
+        "last online": 1711029769440,
         "ID": "a22317a5-ae4b-33d7-8478-76e621786389",
-        "power": -11.16666666666665,
-        "deaths": 7
+        "power": 11.066666666666666,
+        "deaths": 12
 }

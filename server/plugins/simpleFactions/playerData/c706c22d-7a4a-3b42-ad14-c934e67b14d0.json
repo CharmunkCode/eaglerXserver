@@ -1,7 +1,7 @@
 {
         "kills": 1,
         "autounclaim": "false",
-        "time online": 840701,
+        "time online": 1320987,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "miwi",
         "chat channel": "global",
-        "last online": 1710350975212,
+        "last online": 1710501839078,
         "ID": "c706c22d-7a4a-3b42-ad14-c934e67b14d0",
-        "power": -1.9500000000000002,
-        "deaths": 6
+        "power": 0,
+        "deaths": 7
 }

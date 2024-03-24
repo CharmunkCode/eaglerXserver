@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 2,
         "autounclaim": "false",
-        "time online": 4575517,
+        "time online": 20583110,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "Ballers",
-        "factionRank": "member",
+        "faction": "Conquerors",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "Pog4lifepeople",
         "chat channel": "global",
-        "last online": 1710360595270,
+        "last online": 1711130676157,
         "ID": "17274944-1054-3d1a-8125-f887a81082ec",
-        "power": -9.250000000000144,
-        "deaths": 5
+        "power": 25,
+        "deaths": 62
 }

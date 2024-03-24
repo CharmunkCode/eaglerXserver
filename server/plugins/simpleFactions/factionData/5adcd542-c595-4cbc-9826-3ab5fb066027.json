@@ -1,0 +1,23 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": [
+                "the_amazing_yao",
+                "sharky",
+                "wienerdogface",
+                "brycethelegend",
+                "wienerdogface",
+                "pog"
+        ],
+        "enemies": ["Tester_Team"],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "Aftermath",
+        "lastOnline": 1710771315653,
+        "ID": "5adcd542-c595-4cbc-9826-3ab5fb066027",
+        "allies": ["Conquerors"],
+        "open": "false",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

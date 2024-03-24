@@ -1,7 +1,7 @@
 {
-        "kills": 1,
+        "kills": 33,
         "autounclaim": "false",
-        "time online": 15990746,
+        "time online": 87113583,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "DoggoClan",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Mudkips_Rule",
         "chat channel": "global",
-        "last online": 1710358816841,
+        "last online": 1711242479308,
         "ID": "84398786-e521-351c-9cf0-df0f73b6d326",
-        "power": -3.0000000000001084,
-        "deaths": 7
+        "power": 25,
+        "deaths": 44
 }

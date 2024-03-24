@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 1860319,
+        "time online": 6437770,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "kirbo",
         "chat channel": "global",
-        "last online": 1710359237511,
+        "last online": 1711116681500,
         "ID": "62a8b8d6-cf2a-3313-a293-c8d6440b51dc",
-        "power": 1.5833333333332238,
-        "deaths": 3
+        "power": 1.2,
+        "deaths": 14
 }

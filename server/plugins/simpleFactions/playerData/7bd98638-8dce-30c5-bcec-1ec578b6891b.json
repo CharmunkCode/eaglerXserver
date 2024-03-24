@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 11359022,
+        "time online": 21390400,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "WienerDogFace",
         "chat channel": "global",
-        "last online": 1710365602241,
+        "last online": 1710792908790,
         "ID": "7bd98638-8dce-30c5-bcec-1ec578b6891b",
-        "power": 5.39999999999974,
-        "deaths": 1
+        "power": 19.566666666666368,
+        "deaths": 8
 }

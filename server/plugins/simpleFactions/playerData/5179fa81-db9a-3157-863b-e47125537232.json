@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 0,
+        "time online": 240008,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "pikamunk",
         "chat channel": "global",
-        "last online": 1710257698115,
+        "last online": 1710549779547,
         "ID": "5179fa81-db9a-3157-863b-e47125537232",
-        "power": -3.200000000000069,
+        "power": 0,
         "deaths": 0
 }

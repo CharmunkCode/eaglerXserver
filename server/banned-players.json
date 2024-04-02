@@ -160,6 +160,14 @@
     "reason": "Banned by an operator."
   },
   {
+    "uuid": "ff72c134-0d06-36b7-8760-49d4d063227d",
+    "name": "djewidjewjd",
+    "created": "2024-04-01 14:44:20 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "d9d5d639-2d74-3256-ac1f-f0af25637cf9",
     "name": "ACE",
     "created": "2024-03-21 12:48:17 +0000",

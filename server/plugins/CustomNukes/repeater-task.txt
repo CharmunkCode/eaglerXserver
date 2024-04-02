@@ -1,0 +1,6 @@
+world:-996.50:75.50:1005.50:Nuclear Bomb/repeater1:117=771
+world:-10137.50:64.50:4013.50:Nuclear Bomb/repeater1:116=1305
+world:99975.50:65.50:1000041.50:Nuclear Bomb/repeater1:120=1219
+world:99995.50:64.50:1000034.50:Nuclear Bomb/repeater1:121=1181
+world:99975.50:65.50:1000042.50:Nuclear Bomb/repeater1:118=1219
+world:-978.50:75.50:994.50:Nuclear Bomb/repeater1:119=815

@@ -1,16 +1,16 @@
 {
-        "kills": 3,
+        "kills": 0,
         "autounclaim": "false",
-        "time online": 10386204,
+        "time online": 0,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "DoggoClan",
+        "faction": "",
         "factionRank": "member",
         "shekels": 100,
         "name": "Brycethelegend_",
         "chat channel": "global",
-        "last online": 1711029829682,
+        "last online": 1711731059335,
         "ID": "9095eafb-ba07-332c-84e9-19c871da8cd5",
-        "power": 2.8,
-        "deaths": 35
+        "power": 10,
+        "deaths": 0
 }

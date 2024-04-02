@@ -29,7 +29,7 @@ regions:
         owners:
             players: [koi]
         members:
-            players: [turtleduck, tester, dave_thecoolguy_]
+            players: [turtleduck, tester, golemdawanderer, dave_thecoolguy_, marshtomp17]
     ban:
         type: cuboid
         min: {x: -584.0, y: 67.0, z: 241.0}
@@ -129,7 +129,7 @@ regions:
         owners:
             players: [char, tester, a_random_person]
         members:
-            players: [nezukochan]
+            players: [nezukochan, golemdawanderer]
     shops:
         type: cuboid
         min: {x: -584.0, y: 77.0, z: 241.0}
@@ -138,7 +138,8 @@ regions:
         flags: {creeper-explosion: deny}
         owners: {}
         members:
-            players: [nezukochan, turtleduck, tester, dave_thecoolguy_, milk_frog]
+            players: [nezukochan, turtleduck, tester, golemdawanderer, dave_thecoolguy_,
+                milk_frog, marshtomp17]
     testersshop:
         type: cuboid
         min: {x: -568.0, y: 88.0, z: 267.0}

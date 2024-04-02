@@ -1,4 +1,30 @@
 items:
+  '2':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
   '1':
     '0':
       ==: org.bukkit.inventory.ItemStack

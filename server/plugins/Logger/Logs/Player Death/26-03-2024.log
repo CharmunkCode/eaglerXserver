@@ -1,0 +1,14 @@
+[2024-03-26 22:55:52] [world] The Player <Tester> has died with 65 level(s) at X= -566, Y= 83, Z= 311 | caused by Player | Char
+[2024-03-26 22:58:04] [world] The Player <NezukoChan> has died with 42 level(s) at X= -570, Y= 66, Z= 292 | caused by FALL | 
+[2024-03-26 23:01:20] [world] The Player <Feathery> has died with 0 level(s) at X= -576, Y= 66, Z= 298 | caused by ENTITY_ATTACK | 
+[2024-03-26 23:07:04] [world] The Player <Feathery> has died with 0 level(s) at X= -582, Y= 68, Z= 336 | caused by Player | Char
+[2024-03-26 23:16:27] [world_nether] The Player <NezukoChan> has died with 42 level(s) at X= -1250, Y= 50, Z= 518 | caused by ENTITY_ATTACK | 
+[2024-03-26 23:17:23] [world_nether] The Player <NezukoChan> has died with 42 level(s) at X= -1265, Y= 50, Z= 508 | caused by LAVA | 
+[2024-03-26 23:28:33] [world] The Player <Tester> has died with 66 level(s) at X= -626, Y= 68, Z= 302 | caused by VOID | 
+[2024-03-26 23:57:24] [world] The Player <NezukoChan> has died with 42 level(s) at X= -592, Y= 69, Z= 302 | caused by Player | Feathery
+[2024-03-27 00:05:38] [world] The Player <NezukoChan> has died with 42 level(s) at X= -10180, Y= 63, Z= 4113 | caused by Player | Feathery
+[2024-03-27 02:57:41] [world] The Player <Tester> has died with 66 level(s) at X= -610, Y= 69, Z= 265 | caused by Player | Feathery
+[2024-03-27 02:59:11] [world] The Player <Tester> has died with 66 level(s) at X= -606, Y= 68, Z= 265 | caused by ENTITY_EXPLOSION | 
+[2024-03-27 03:00:19] [world] The Player <Tester> has died with 66 level(s) at X= -612, Y= 69, Z= 270 | caused by VOID | 
+[2024-03-27 03:16:33] [world] The Player <Tester> has died with 66 level(s) at X= -10246, Y= 67, Z= 4071 | caused by Player | Feathery
+[2024-03-27 12:18:57] [world_the_end] The Player <Tester> has died with 66 level(s) at X= 65, Y= 23, Z= -1 | caused by FALL | 

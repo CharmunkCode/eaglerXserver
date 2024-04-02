@@ -1,149 +1,187 @@
 items:
-  '2':
-    '0':
+  '-11':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '1':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '2':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '3':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-10':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '4':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '5':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '6':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-9':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '7':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '8':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '9':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-8':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '10':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '11':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '12':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-7':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '13':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 64
-    '14':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 64
-    '15':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-6':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 64
-    '16':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '17':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 64
-    '18':
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-5':
+    '48':
       ==: org.bukkit.inventory.ItemStack
-      type: ACTIVATOR_RAIL
-      amount: 64
-    '19':
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
       ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '20':
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
       ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 53
-    '21':
-      ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '22':
-      ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 14
-    '23':
-      ==: org.bukkit.inventory.ItemStack
-      type: RAILS
-      amount: 64
-    '24':
-      ==: org.bukkit.inventory.ItemStack
-      type: POWERED_RAIL
-      amount: 64
-    '26':
-      ==: org.bukkit.inventory.ItemStack
-      type: DETECTOR_RAIL
-      amount: 64
-    '27':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '28':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '29':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '30':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '31':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '32':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '33':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '34':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_BLOCK
-      amount: 64
-    '36':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_TORCH_ON
-      amount: 64
-    '37':
-      ==: org.bukkit.inventory.ItemStack
-      type: REDSTONE_TORCH_ON
-      amount: 64
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-4':
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE
@@ -224,18 +262,10 @@ items:
     '20':
       ==: org.bukkit.inventory.ItemStack
       type: WHEAT
-    '21':
-      ==: org.bukkit.inventory.ItemStack
-      type: BONE
-      amount: 64
     '22':
       ==: org.bukkit.inventory.ItemStack
       type: TORCH
       amount: 64
-    '23':
-      ==: org.bukkit.inventory.ItemStack
-      type: TORCH
-      amount: 57
     '24':
       ==: org.bukkit.inventory.ItemStack
       type: STICK
@@ -244,10 +274,6 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BOW
       damage: 230
-    '26':
-      ==: org.bukkit.inventory.ItemStack
-      type: BOW
-      damage: 275
     '27':
       ==: org.bukkit.inventory.ItemStack
       type: BOW
@@ -301,14 +327,6 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BOW
       damage: 359
-    '43':
-      ==: org.bukkit.inventory.ItemStack
-      type: BOW
-      damage: 334
-    '44':
-      ==: org.bukkit.inventory.ItemStack
-      type: BOW
-      damage: 312
     '45':
       ==: org.bukkit.inventory.ItemStack
       type: BOW
@@ -317,6 +335,152 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BOW
       damage: 359
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '2':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 32
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 64
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 64
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: ACTIVATOR_RAIL
+      amount: 64
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 53
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 14
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+      amount: 64
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: DETECTOR_RAIL
+      amount: 64
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 64
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_TORCH_ON
+      amount: 64
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_TORCH_ON
+      amount: 64
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE
@@ -623,6 +787,155 @@ items:
     '15':
       ==: org.bukkit.inventory.ItemStack
       type: BONE
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-1':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 285
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 326
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: SPIDER_EYE
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: STRING
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 139
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: ROTTEN_FLESH
+      amount: 2
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+    '46':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 359
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-2':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: ITEM_FRAME
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: BUCKET
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_STEP
+      damage: 1
+      amount: 5
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_BLOCK
+      amount: 31
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: MINECART
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: CHEST
+      amount: 9
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: HOPPER
+      amount: 16
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAILS
+      amount: 60
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: TORCH
+      amount: 55
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-3':
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE

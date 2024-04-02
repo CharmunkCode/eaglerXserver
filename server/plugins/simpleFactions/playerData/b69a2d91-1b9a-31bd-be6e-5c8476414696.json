@@ -1,16 +1,16 @@
 {
-        "kills": 10,
+        "kills": 0,
         "autounclaim": "false",
-        "time online": 59333949,
+        "time online": 0,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "Tester_Team",
+        "faction": "",
         "factionRank": "member",
         "shekels": 100,
         "name": "astronomy",
         "chat channel": "global",
-        "last online": 1711137457423,
+        "last online": 1711731059333,
         "ID": "b69a2d91-1b9a-31bd-be6e-5c8476414696",
-        "power": 25,
-        "deaths": 54
+        "power": 10,
+        "deaths": 0
 }

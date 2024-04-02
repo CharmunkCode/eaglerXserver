@@ -1,5 +1,5 @@
 {
-        "truce": [],
+        "truce": ["NSDAP"],
         "safezone": "false",
         "invited": [
                 "rip_dogwater",
@@ -32,23 +32,27 @@
                 "hexa",
                 "a",
                 "autistic_man",
-                "kirbo"
+                "kirbo",
+                "feathery",
+                "xcpc",
+                "tester_"
         ],
         "enemies": [
                 "aftermath",
-                "doi"
+                "doi",
+                "EnderVoid",
+                "suckmydick"
         ],
         "peaceful": "false",
         "home": "",
         "shekels": 0,
         "name": "Tester_Team",
-        "lastOnline": 1711141677157,
+        "lastOnline": 1711664802546,
         "ID": "e1952f32-0645-4777-999d-20f88b6591d0",
         "allies": [
                 "OGs",
                 "DoggoClan",
                 "factio",
-                "NSDAP",
                 "MUDKIPCLAN"
         ],
         "open": "true",

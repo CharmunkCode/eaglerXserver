@@ -8,7 +8,13 @@
                 "hexa",
                 "hexa",
                 "mudkips_rule",
-                "golemdawanderer"
+                "golemdawanderer",
+                "feathery",
+                "xcpc",
+                "btc",
+                "golemdawanderer",
+                "btc",
+                "tester_"
         ],
         "enemies": [
                 "Lorax",
@@ -18,12 +24,13 @@
         "home": "",
         "shekels": 0,
         "name": "Tester_Team",
-        "lastOnline": 1711141114774,
+        "lastOnline": 1711664898304,
         "ID": "33a96847-be42-4a60-899b-e8762943719b",
         "allies": [
                 "DoggoClan",
                 "Conquerors",
-                "OGs"
+                "OGs",
+                "Cheeseburger"
         ],
         "open": "false",
         "warzone": "false",

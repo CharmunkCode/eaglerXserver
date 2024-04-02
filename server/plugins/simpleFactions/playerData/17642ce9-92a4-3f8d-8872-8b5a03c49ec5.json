@@ -1,16 +1,16 @@
 {
-        "kills": 0,
+        "kills": 2,
         "autounclaim": "false",
-        "time online": 1020843,
+        "time online": 26349405,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
-        "factionRank": "member",
+        "faction": "zxc",
+        "factionRank": "leader",
         "shekels": 100,
         "name": "xcpc",
         "chat channel": "global",
-        "last online": 1711311754384,
+        "last online": 1712026083697,
         "ID": "17642ce9-92a4-3f8d-8872-8b5a03c49ec5",
-        "power": 12.266666666666659,
-        "deaths": 0
+        "power": 25,
+        "deaths": 3
 }

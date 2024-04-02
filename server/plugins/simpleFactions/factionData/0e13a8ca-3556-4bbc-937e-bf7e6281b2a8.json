@@ -1,0 +1,16 @@
+{
+        "truce": [],
+        "safezone": "false",
+        "invited": ["golemdawanderer"],
+        "enemies": [],
+        "peaceful": "false",
+        "home": "",
+        "shekels": 0,
+        "name": "Cheeseburger",
+        "lastOnline": 1711499701673,
+        "ID": "0e13a8ca-3556-4bbc-937e-bf7e6281b2a8",
+        "allies": ["Tester_Team"],
+        "open": "false",
+        "warzone": "false",
+        "desc": "Please do /sf desc to change this description!"
+}

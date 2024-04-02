@@ -1,0 +1,400 @@
+items:
+  '3':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '2':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: PRISMARINE_CRYSTALS
+      amount: 5
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_PICKAXE
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: ROTTEN_FLESH
+      amount: 4
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: BROWN_MUSHROOM
+      amount: 64
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: ANVIL
+      amount: 2
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      damage: 369
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: STORAGE_MINECART
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: PRISMARINE_SHARD
+      amount: 33
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+      amount: 3
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: RAW_FISH
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: GHAST_TEAR
+      amount: 5
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '1':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: WORKBENCH
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: EGG
+      amount: 2
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL
+      amount: 15
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: NAME_TAG
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          DAMAGE_ALL: 2
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ
+      amount: 48
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_PROJECTILE: 1
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        repair-cost: 3
+        stored-enchants:
+          PROTECTION_ENVIRONMENTAL: 1
+          DURABILITY: 1
+          PROTECTION_FALL: 4
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        repair-cost: 3
+        stored-enchants:
+          PROTECTION_ENVIRONMENTAL: 3
+          WATER_WORKER: 1
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          DAMAGE_ALL: 5
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 34
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_PROJECTILE: 2
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: In memoriam of Jimmy
+        repair-cost: 1
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SWORD
+      damage: 3
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Oh yeah.
+        enchants:
+          DAMAGE_UNDEAD: 1
+        repair-cost: 1
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_DAMAGE: 3
+          ARROW_KNOCKBACK: 2
+        repair-cost: 7
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+      amount: 64
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      type: SKULL_ITEM
+      amount: 2
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      type: COMPASS
+      amount: 2
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_MUTTON
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8237
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 8233
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKIE
+      amount: 64
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKIE
+      amount: 30
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      damage: 134
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Golem's Love
+        enchants:
+          DIG_SPEED: 5
+          DAMAGE_ALL: 5
+          DURABILITY: 3
+          FIRE_ASPECT: 2
+        repair-cost: 63
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DAMAGE_ALL: 5
+          DURABILITY: 3
+          FIRE_ASPECT: 1
+          LOOT_BONUS_MOBS: 2
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER_BOOTS
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER_LEGGINGS
+    '45':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER_CHESTPLATE
+    '46':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER_HELMET
+    '47':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+    '51':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+    '52':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_HOE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DURABILITY: 3
+    '53':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_AXE
+      damage: 40
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Time To Strike!
+        enchants:
+          DIG_SPEED: 5
+          SILK_TOUCH: 1
+          DURABILITY: 3
+        repair-cost: 31
+menuName: new
+size: 54
+item: '1'
+displayName: '&e&lnew'
+lore: true

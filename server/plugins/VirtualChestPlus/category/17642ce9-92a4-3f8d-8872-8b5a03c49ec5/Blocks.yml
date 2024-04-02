@@ -1,0 +1,144 @@
+items:
+  '1':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: OBSIDIAN
+      amount: 3
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      damage: 4
+      amount: 14
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHERRACK
+      amount: 64
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEAVES
+      amount: 64
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 60
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_BRICK
+      amount: 64
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_BRICK
+      amount: 64
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 64
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 5
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 64
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 40
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: BUCKET
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_BRICK
+      amount: 64
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_BRICK
+      amount: 21
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHERRACK
+      amount: 62
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_ORE
+      amount: 3
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL_ORE
+      amount: 2
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+      amount: 3
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ
+      amount: 21
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      damage: 6
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+menuName: Blocks
+size: 54
+item: '1'
+displayName: '&e&lBlocks'
+lore: true

@@ -1,7 +1,7 @@
 {
-        "kills": 0,
+        "kills": 23,
         "autounclaim": "false",
-        "time online": 60028,
+        "time online": 21739889,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "BTC",
         "chat channel": "global",
-        "last online": 1710544877426,
+        "last online": 1712051223743,
         "ID": "0a5b6dd8-f370-39c9-b3a0-78aee983ac06",
-        "power": 10.05,
-        "deaths": 0
+        "power": 25,
+        "deaths": 23
 }

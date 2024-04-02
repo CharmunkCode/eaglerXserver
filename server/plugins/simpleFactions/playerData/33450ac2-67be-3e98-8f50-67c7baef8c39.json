@@ -1,16 +1,16 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 358732,
+        "time online": 2157750,
         "factionTitle": "",
         "autoclaim": "false",
-        "faction": "",
+        "faction": "Tester_Team",
         "factionRank": "member",
         "shekels": 100,
         "name": "defnotnezuko",
         "chat channel": "global",
-        "last online": 1710362457239,
+        "last online": 1711635282085,
         "ID": "33450ac2-67be-3e98-8f50-67c7baef8c39",
-        "power": 10.350000000000005,
-        "deaths": 0
+        "power": 12.48333333333333,
+        "deaths": 7
 }

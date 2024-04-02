@@ -1,56 +1,4 @@
 items:
-  '-1':
-    '48':
-      ==: org.bukkit.inventory.ItemStack
-      type: STAINED_GLASS_PANE
-      damage: 14
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §cPrevious Page
-    '49':
-      ==: org.bukkit.inventory.ItemStack
-      type: BARRIER
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §c§lClose Menu
-        lore:
-        - §aClick!
-    '50':
-      ==: org.bukkit.inventory.ItemStack
-      type: STAINED_GLASS_PANE
-      damage: 11
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §cNext page
-  '-2':
-    '48':
-      ==: org.bukkit.inventory.ItemStack
-      type: STAINED_GLASS_PANE
-      damage: 14
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §cPrevious Page
-    '49':
-      ==: org.bukkit.inventory.ItemStack
-      type: BARRIER
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §c§lClose Menu
-        lore:
-        - §aClick!
-    '50':
-      ==: org.bukkit.inventory.ItemStack
-      type: STAINED_GLASS_PANE
-      damage: 11
-      meta:
-        ==: ItemMeta
-        meta-type: UNSPECIFIC
-        display-name: §cNext page
   '-3':
     '48':
       ==: org.bukkit.inventory.ItemStack
@@ -308,6 +256,70 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BONE
       amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 5
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 198
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+      amount: 42
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-1':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '-2':
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE
@@ -338,6 +350,14 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: COAL_ORE
       amount: 48
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 50
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 68
     '3':
       ==: org.bukkit.inventory.ItemStack
       type: REDSTONE_TORCH_ON
@@ -366,6 +386,9 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: COAL
       amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: FENCE
     '11':
       ==: org.bukkit.inventory.ItemStack
       type: FURNACE
@@ -373,10 +396,23 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: WHEAT
       amount: 64
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: ANVIL
     '14':
       ==: org.bukkit.inventory.ItemStack
       type: GRAVEL
       amount: 15
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+      damage: 1
+      amount: 52
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Apple Of The Heavens
+        repair-cost: 1
     '16':
       ==: org.bukkit.inventory.ItemStack
       type: COBBLESTONE
@@ -389,6 +425,10 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BREAD
       amount: 6
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: CHEST
+      amount: 2
     '20':
       ==: org.bukkit.inventory.ItemStack
       type: RAILS
@@ -401,9 +441,20 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: WATER_LILY
       amount: 32
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: SLIME_BLOCK
     '24':
       ==: org.bukkit.inventory.ItemStack
       type: WORKBENCH
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+      amount: 64
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 98
     '27':
       ==: org.bukkit.inventory.ItemStack
       type: STONE
@@ -420,6 +471,21 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: ROTTEN_FLESH
       amount: 7
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      type: LAPIS_BLOCK
+      amount: 48
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      type: BROWN_MUSHROOM
+      amount: 4
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      type: TORCH
+      amount: 18
     '35':
       ==: org.bukkit.inventory.ItemStack
       type: SIGN
@@ -440,10 +506,39 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: STRING
       amount: 4
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      type: SEEDS
+      amount: 2
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      type: FLINT_AND_STEEL
+      damage: 2
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_CHEST
+      amount: 32
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BLOCK
+      amount: 64
     '44':
       ==: org.bukkit.inventory.ItemStack
       type: SULPHUR
       amount: 4
+    '45':
+      ==: org.bukkit.inventory.ItemStack
+      type: NAME_TAG
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: jeb_
+        repair-cost: 3
+    '46':
+      ==: org.bukkit.inventory.ItemStack
+      type: NAME_TAG
+      amount: 2
     '47':
       ==: org.bukkit.inventory.ItemStack
       type: REDSTONE_ORE
@@ -481,6 +576,10 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: DIRT
       amount: 16
+    '53':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 20
   '2':
     '0':
       ==: org.bukkit.inventory.ItemStack
@@ -498,10 +597,6 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: POTION
       damage: 8269
-    '4':
-      ==: org.bukkit.inventory.ItemStack
-      type: POTION
-      damage: 8270
     '5':
       ==: org.bukkit.inventory.ItemStack
       type: IRON_INGOT
@@ -541,10 +636,6 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: LEATHER
       amount: 64
-    '15':
-      ==: org.bukkit.inventory.ItemStack
-      type: LEATHER
-      amount: 64
     '16':
       ==: org.bukkit.inventory.ItemStack
       type: DIAMOND
@@ -561,7 +652,7 @@ items:
     '19':
       ==: org.bukkit.inventory.ItemStack
       type: SOUL_SAND
-      amount: 64
+      amount: 32
     '20':
       ==: org.bukkit.inventory.ItemStack
       type: NETHER_STALK
@@ -573,7 +664,7 @@ items:
     '22':
       ==: org.bukkit.inventory.ItemStack
       type: NETHER_STALK
-      amount: 59
+      amount: 29
     '23':
       ==: org.bukkit.inventory.ItemStack
       type: LEATHER
@@ -582,10 +673,10 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: ENDER_PEARL
       amount: 10
-    '26':
+    '25':
       ==: org.bukkit.inventory.ItemStack
       type: ENDER_CHEST
-      amount: 6
+      amount: 4
     '28':
       ==: org.bukkit.inventory.ItemStack
       type: POTION
@@ -622,10 +713,6 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: BLAZE_ROD
       amount: 30
-    '37':
-      ==: org.bukkit.inventory.ItemStack
-      type: DIAMOND_BLOCK
-      amount: 12
     '38':
       ==: org.bukkit.inventory.ItemStack
       type: PAPER
@@ -644,6 +731,10 @@ items:
     '43':
       ==: org.bukkit.inventory.ItemStack
       type: SADDLE
+    '46':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BLOCK
+      amount: 10
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE
@@ -691,6 +782,64 @@ items:
       ==: org.bukkit.inventory.ItemStack
       type: REDSTONE_BLOCK
       amount: 56
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_CARROT
+      amount: 4
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: BROWN_MUSHROOM
+      amount: 5
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_AXE
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOL
+      damage: 7
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_MUTTON
+      amount: 4
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_CHEST
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SWORD
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DAMAGE_ALL: 5
+          DURABILITY: 3
+          FIRE_ASPECT: 1
+          LOOT_BONUS_MOBS: 2
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+      damage: 82
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: God's Weak Wrath
+        enchants:
+          DAMAGE_ALL: 5
+        repair-cost: 3
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: PISTON_STICKY_BASE
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEVER
+      amount: 4
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
     '48':
       ==: org.bukkit.inventory.ItemStack
       type: STAINED_GLASS_PANE

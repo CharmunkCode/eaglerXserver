@@ -18,6 +18,9 @@ groups:
     - minecraft.command.kill
     - minecraft.command.time
     groups: []
+  moderator:
+    permissions: []
+    groups: []
   builder:
     permissions:
     - minecraft.command.gamemode

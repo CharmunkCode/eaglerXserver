@@ -25,7 +25,7 @@ kirbo:
   tabsuffix: '&0(&DKIRBO&0)&7'
   tabprefix: Da Best
 Tester:
-  tabprefix: (dumbo)
+  tabprefix: '&0&l[&a&lBuilder&0&l] &a'
   tabsuffix: '&0&l[&a&3Staff&0&l] &a'
   tagprefix: '&0&l[&a&3Staff&0&l] &a'
 A_Random_Person:
@@ -62,3 +62,7 @@ hexa:
   tagprefix: (dumbah)
 Dave_TheCoolGuy:
   tabsuffix: '&1(Almost Admin)'
+Feathery:
+  tabsuffix: '&0&l[&a&lBuilder&0&l] &a'
+  tagprefix: '&0&l&a&lBuilder &0&l &a'
+  tabprefix: '&0[&1Staff&0]&7'

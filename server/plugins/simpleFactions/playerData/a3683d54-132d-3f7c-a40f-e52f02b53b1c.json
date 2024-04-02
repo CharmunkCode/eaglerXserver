@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 60032,
+        "time online": 0,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "DaCheetoMan",
         "chat channel": "global",
-        "last online": 1710357618794,
+        "last online": 1711757475780,
         "ID": "a3683d54-132d-3f7c-a40f-e52f02b53b1c",
-        "power": 10.05,
+        "power": 10,
         "deaths": 0
 }

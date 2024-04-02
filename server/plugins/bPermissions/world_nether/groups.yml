@@ -9,3 +9,6 @@ groups:
   kirbo:
     permissions: []
     groups: []
+  builder:
+    permissions: []
+    groups: []

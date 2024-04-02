@@ -1,0 +1,361 @@
+items:
+  '3':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '0':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '2':
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+  '1':
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: GLOWSTONE_DUST
+      amount: 16
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      type: PORK
+      amount: 4
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_TORCH_ON
+      amount: 8
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      type: EYE_OF_ENDER
+      amount: 5
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIODE
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      type: SKULL_ITEM
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      type: TNT
+      amount: 2
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      type: CHEST
+      amount: 20
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      type: STICK
+      amount: 13
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTMENT_TABLE
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      type: POWERED_RAIL
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      type: APPLE
+      amount: 36
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ_BLOCK
+      amount: 64
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      type: SPONGE
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Flash Bomb
+        lore:
+        - 'Flash radius: 32'
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      type: LEASH
+      amount: 57
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      type: SIGN
+      amount: 11
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ_BLOCK
+      amount: 64
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      type: QUARTZ_BLOCK
+      amount: 15
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE
+      amount: 40
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      type: EMERALD
+      amount: 11
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 3
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 1
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 3
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 1
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DURABILITY: 1
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 3
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 1
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 3
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 1
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 3
+          DURABILITY: 3
+          LOOT_BONUS_BLOCKS: 1
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §e Jetpack§e ▪ «495»
+        lore:
+        - Shoot the ground to fly
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      type: SPONGE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Nuclear Bomb
+        lore:
+        - 'Damage radius: 120'
+        - This can change the world.
+        - Be careful!
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      type: MILK_BUCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: cum
+        enchants:
+          FIRE_ASPECT: 2
+          KNOCKBACK: 2
+        repair-cost: 7
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      type: SPONGE
+      amount: 64
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHER_STAR
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BLOCK
+      amount: 21
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §eMP7§e ▪ «30»
+        lore:
+        - §eFully automatic with high power.
+        - §eEffective at medium range.
+        - §eControls are inverted.
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 1
+          DURABILITY: 1
+        repair-cost: 1
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_FIRE: 2
+        repair-cost: 1
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      type: NAME_TAG
+      amount: 2
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 100
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOOK
+      amount: 45
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      damage: 278
+    '45':
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §eMP7§e ▪ «30»
+        lore:
+        - §eFully automatic with high power.
+        - §eEffective at medium range.
+        - §eControls are inverted.
+    '48':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 14
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cPrevious Page
+    '49':
+      ==: org.bukkit.inventory.ItemStack
+      type: BARRIER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §c§lClose Menu
+        lore:
+        - §aClick!
+    '50':
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 11
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §cNext page
+menuName: me
+size: 54
+item: '1'
+displayName: '&e&lme'
+lore: true

@@ -1,7 +1,7 @@
 {
         "kills": 0,
         "autounclaim": "false",
-        "time online": 724822,
+        "time online": 1265365,
         "factionTitle": "",
         "autoclaim": "false",
         "faction": "Tester_Team",
@@ -9,8 +9,8 @@
         "shekels": 100,
         "name": "Tester_",
         "chat channel": "global",
-        "last online": 1710719506047,
+        "last online": 1711975424210,
         "ID": "1ab06406-44ca-3665-bf3b-a731025facde",
-        "power": 0.2,
+        "power": 0.9999999999999999,
         "deaths": 0
 }
